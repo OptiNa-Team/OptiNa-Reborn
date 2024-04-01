@@ -165,7 +165,8 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 <a href="https://modrinth.com/mod/euphoria-patches" rel="nofollow">Euphoria Patches (Mod) By <strong>SpacEagle17</strong></a><br>
 <a href="https://modrinth.com/mod/badoptimizations" rel="nofollow">BadOptimizations (Mod) By <strong>thosea</strong></a><br>
 <a href="https://modrinth.com/mod/cubes-without-borders" rel="nofollow">Cubes Without Borders (Mod) By <strong>Kir_Antipov</strong></a><br>
-<a href="https://modrinth.com/mod/e4mc" rel="nofollow">e4mc (Mod) By <strong>vgskye</strong></a><br>  
+<a href="https://modrinth.com/mod/e4mc" rel="nofollow">e4mc (Mod) By <strong>vgskye</strong></a><br>
+<a href="https://modrinth.com/mod/cit-resewn" rel="nofollow">CIT Resewn (Mod) By <strong>shsupercm</strong></a><br>
 </details>
 
 <details>
