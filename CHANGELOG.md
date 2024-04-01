@@ -1,7 +1,9 @@
-![Hotfix](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/hotfix_changelog_banner.png?raw=true)
-<hr>
-
- - **[No Telemetry (Mod)](https://modrinth.com/mod/no-telemetry)** By **kb1000** due to low frame rates
-   - Removed!
- - **[e4mc (Mod)](https://modrinth.com/mod/e4mc)** By **vgskye**
-   - Added!
+![April Fool Update](https://github.com/NotAGanesh/OptiNa-Reborn/blob/preview-build-1.0.5/assets/april_fool_update_banner_2024.png?raw=true)
+- CIT Resewn (Mod) by **shsupercm** Added!
+- EntityCulling, Debugify, Controlify, Concurrent Chunk Management Engine (Fabric) Has Been Updated!
+- Config Files Update
+   - Keybinding Changed!
+   - Options Updated!
+   - Resource Packs Pre-Enabled!
+- Bug Fixed! / Crash Fixed!
+   - Crash due to Controlify Fixed!
