@@ -1,6 +1,6 @@
 {
-  "last_seen_version": "1.8.1+1.20.4",
-  "current_controller": "dcc4ef3b-334a-333e-88e9-47578eb27136",
+  "last_seen_version": "2.0.0-beta.2+1.20.4",
+  "current_controller": "ad7c0f55-02d5-3c5a-bc44-432d21151944",
   "controllers": {
     "dcc4ef3b-334a-333e-88e9-47578eb27136": {
       "config": {
@@ -417,9 +417,412 @@
           "type": "empty"
         }
       }
+    },
+    "ad7c0f55-02d5-3c5a-bc44-432d21151944": {
+      "config": {
+        "controlify:input": {
+          "h_look_sensitivity": 1.0,
+          "v_look_sensitivity": 0.9,
+          "virtual_mouse_sensitivity": 1.0,
+          "reduce_aiming_sensitivity": true,
+          "button_activation_threshold": 0.5,
+          "deadzones": {
+            "controlify:right_stick": 0.08001526,
+            "controlify:left_stick": 0.092436105
+          },
+          "deadzones_calibrated": true,
+          "delayed_calibration": false,
+          "mixed_input": false,
+          "mapping": null
+        },
+        "controlify:config/generic": {
+          "nickname": null,
+          "auto_jump": false,
+          "toggle_sprint": true,
+          "toggle_sneak": true,
+          "disable_fly_drifting": false,
+          "show_ingame_guide": true,
+          "ingame_guide_bottom": false,
+          "show_screen_guides": true,
+          "show_on_screen_keyboard": true,
+          "chat_keyboard_height": 0.5,
+          "radial_actions": [
+            "controlify:toggle_hud_visibility",
+            "controlify:change_perspective",
+            "controlify:drop_stack",
+            "controlify:open_chat",
+            "controlify:swap_hands",
+            "controlify:pick_block",
+            "controlify:take_screenshot",
+            "controlify:show_player_list"
+          ],
+          "radial_button_focus_timeout_ticks": 20,
+          "dont_show_controller_submission": true
+        }
+      },
+      "bindings": {
+        "controlify:walk_forward": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_up"
+        },
+        "controlify:walk_backward": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_down"
+        },
+        "controlify:strafe_left": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_left"
+        },
+        "controlify:strafe_right": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_right"
+        },
+        "controlify:look_up": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_up"
+        },
+        "controlify:look_down": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_down"
+        },
+        "controlify:look_left": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_left"
+        },
+        "controlify:look_right": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_right"
+        },
+        "controlify:jump": {
+          "type": "button",
+          "button": "controlify:button/south"
+        },
+        "controlify:sprint": {
+          "type": "button",
+          "button": "controlify:button/left_stick"
+        },
+        "controlify:sneak": {
+          "type": "button",
+          "button": "controlify:button/right_stick"
+        },
+        "controlify:attack": {
+          "type": "axis",
+          "axis": "controlify:axis/right_trigger"
+        },
+        "controlify:use": {
+          "type": "axis",
+          "axis": "controlify:axis/left_trigger"
+        },
+        "controlify:drop": {
+          "type": "button",
+          "button": "controlify:button/dpad_down"
+        },
+        "controlify:drop_stack": {
+          "type": "empty"
+        },
+        "controlify:drop_inventory": {
+          "type": "button",
+          "button": "controlify:button/north"
+        },
+        "controlify:next_slot": {
+          "type": "button",
+          "button": "controlify:button/right_shoulder"
+        },
+        "controlify:prev_slot": {
+          "type": "button",
+          "button": "controlify:button/left_shoulder"
+        },
+        "controlify:pause": {
+          "type": "button",
+          "button": "controlify:button/start"
+        },
+        "controlify:inventory": {
+          "type": "button",
+          "button": "controlify:button/north"
+        },
+        "controlify:change_perspective": {
+          "type": "button",
+          "button": "controlify:button/back"
+        },
+        "controlify:swap_hands": {
+          "type": "button",
+          "button": "controlify:button/west"
+        },
+        "controlify:open_chat": {
+          "type": "button",
+          "button": "controlify:button/dpad_up"
+        },
+        "controlify:gui_press": {
+          "type": "button",
+          "button": "controlify:button/south"
+        },
+        "controlify:gui_back": {
+          "type": "button",
+          "button": "controlify:button/east"
+        },
+        "controlify:gui_next_tab": {
+          "type": "button",
+          "button": "controlify:button/right_shoulder"
+        },
+        "controlify:gui_prev_tab": {
+          "type": "button",
+          "button": "controlify:button/left_shoulder"
+        },
+        "controlify:gui_abstract_action_1": {
+          "type": "button",
+          "button": "controlify:button/west"
+        },
+        "controlify:gui_abstract_action_2": {
+          "type": "button",
+          "button": "controlify:button/north"
+        },
+        "controlify:inv_select": {
+          "type": "button",
+          "button": "controlify:button/south"
+        },
+        "controlify:inv_quick_move": {
+          "type": "button",
+          "button": "controlify:button/north"
+        },
+        "controlify:inv_take_half": {
+          "type": "button",
+          "button": "controlify:button/west"
+        },
+        "controlify:pick_block": {
+          "type": "button",
+          "button": "controlify:button/dpad_left"
+        },
+        "controlify:pick_block_nbt": {
+          "type": "empty"
+        },
+        "controlify:toggle_hud_visibility": {
+          "type": "empty"
+        },
+        "controlify:show_player_list": {
+          "type": "empty"
+        },
+        "controlify:take_screenshot": {
+          "type": "empty"
+        },
+        "controlify:toggle_debug_menu": {
+          "type": "empty"
+        },
+        "controlify:radial_menu": {
+          "type": "button",
+          "button": "controlify:button/dpad_right"
+        },
+        "controlify:radial_axis_up": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_up"
+        },
+        "controlify:radial_axis_down": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_down"
+        },
+        "controlify:radial_axis_left": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_left"
+        },
+        "controlify:radial_axis_right": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_right"
+        },
+        "controlify:game_mode_switcher": {
+          "type": "empty"
+        },
+        "controlify:vmouse_move_up": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_up"
+        },
+        "controlify:vmouse_move_down": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_down"
+        },
+        "controlify:vmouse_move_left": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_left"
+        },
+        "controlify:vmouse_move_right": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_right"
+        },
+        "controlify:vmouse_lclick": {
+          "type": "button",
+          "button": "controlify:button/south"
+        },
+        "controlify:vmouse_rclick": {
+          "type": "button",
+          "button": "controlify:button/west"
+        },
+        "controlify:vmouse_shift_click": {
+          "type": "button",
+          "button": "controlify:button/north"
+        },
+        "controlify:vmouse_snap_up": {
+          "type": "button",
+          "button": "controlify:button/dpad_up"
+        },
+        "controlify:vmouse_snap_down": {
+          "type": "button",
+          "button": "controlify:button/dpad_down"
+        },
+        "controlify:vmouse_snap_left": {
+          "type": "button",
+          "button": "controlify:button/dpad_left"
+        },
+        "controlify:vmouse_snap_right": {
+          "type": "button",
+          "button": "controlify:button/dpad_right"
+        },
+        "controlify:vmouse_scroll_up": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_up"
+        },
+        "controlify:vmouse_scroll_down": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_down"
+        },
+        "controlify:vmouse_shift": {
+          "type": "button",
+          "button": "controlify:button/left_stick"
+        },
+        "controlify:vmouse_toggle": {
+          "type": "button",
+          "button": "controlify:button/back"
+        },
+        "controlify:vmouse_page_next": {
+          "type": "button",
+          "button": "controlify:button/right_shoulder"
+        },
+        "controlify:vmouse_page_prev": {
+          "type": "button",
+          "button": "controlify:button/left_shoulder"
+        },
+        "controlify:vmouse_page_down": {
+          "type": "axis",
+          "axis": "controlify:axis/right_trigger"
+        },
+        "controlify:vmouse_page_up": {
+          "type": "axis",
+          "axis": "controlify:axis/left_trigger"
+        },
+        "controlify:gui_navi_up": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_up"
+        },
+        "controlify:gui_navi_down": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_down"
+        },
+        "controlify:gui_navi_left": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_left"
+        },
+        "controlify:gui_navi_right": {
+          "type": "axis",
+          "axis": "controlify:axis/left_stick_right"
+        },
+        "controlify:cycle_opt_forward": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_right"
+        },
+        "controlify:cycle_opt_backward": {
+          "type": "axis",
+          "axis": "controlify:axis/right_stick_left"
+        },
+        "fabric-key-binding-api-v1:key.fabrishot.screenshot": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.antighost.reveal": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.entityculling.toggle": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.fabricskyboxes.toggle": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.fabricskyboxes.toggle.debug_hud": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.modmenu.open_menu": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.optigui.inspect": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.playeroverview": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.lighting": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.quickmode": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.settings": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.marker": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.thumbnail": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.playpause": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.rollclockwise": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.rollcounterclockwise": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.resettilt": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.pathpreview": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.keyframerepository": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.clearkeyframes": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.synctimeline": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.positionkeyframe": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.positiononlykeyframe": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.timekeyframe": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:key.replaymod.bothkeyframes": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:zoomify.key.zoom": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:zoomify.key.zoom.secondary": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:iris.keybind.reload": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:iris.keybind.toggleshaders": {
+          "type": "empty"
+        },
+        "fabric-key-binding-api-v1:iris.keybind.shaderpackselection": {
+          "type": "empty"
+        }
+      }
     }
   },
-  "compound_joysticks": [],
   "global": {
     "virtual_mouse_screens": [
       "net.minecraft.class_465"
