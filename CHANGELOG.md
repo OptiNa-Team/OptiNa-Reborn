@@ -7,3 +7,7 @@
    - Resource Packs Pre-Enabled!
 - Bug Fixed! / Crash Fixed!
    - Crash due to Controlify Fixed!
+<br>
+
+[Get Potato PC Settings Here](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/%F0%9F%92%BB-Potato-PC-Settings)
+  
