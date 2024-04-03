@@ -22,10 +22,10 @@
 </div>
 
     
-## ℹ️ Information
+## 📖 Information 
 > The modpack aims to recreates the features of the popular **OptiFine** mod in Fabric using **[Sodium](https://modrinth.com/mod/sodium)**. **OptiFine features such as HD Textures, Custom Models, CIT models, OptiFine cape and Cloaks, Shaders, OptiFine zoom, Model Gap Fix,Dynamic Lights and more** are supported,The modpack is compatible with [Minecraft: Java Edition ](https://minecraft.wiki/w/Java_Edition)(Fabric) and is faster than Vanilla/OptiFine, thanks to the modern mods like _Lithium, Sodium, Dynamic FPS, Memory Leak Fix, and Spark_,OptiNa Reborn is lightweight and **One bonus feature of OptiNa Reborn is that it updates faster than OptiFine with new versions**
 
-### ⏺OptiFine parity
+### 🚀 OptiFine parity
 - ✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
 - ✔️ FPS Boost <br>
 - ✔️ FPS control <br>
@@ -43,7 +43,7 @@
 
 ### Differences Between Legacy & Reborn Version
 
-|               **Features**               | **Legacy** | **Reborn** |
+|               _**Features**_               | _**Legacy**_ | _**Reborn**_ |
 |----------------------------|--------|--------|
 | Configs Files improved     | ✖      | ✓      |
 | compatible with other mods | ✓      | ✓      |
@@ -55,7 +55,7 @@
 
 
 
-## 🔸Ray Tracing (Bedrock RTX)
+## ✨ Ray Tracing (Bedrock RTX)
 ![RTX info](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/rtx_modrinth_homepage.png?raw=true)
 How to apply RTX: **Open Minecraft > Options > Shaders > Enable** <br>
 Ray tracing  brings a brand new experience to **Minecraft! Experience creator-built worlds with realistic lighting, vibrant colors, naturally reflective water and emissive textures that light up.**,Ray Tracing based on **[Complementary Shaders](https://complementary.dev/)**,RTX use's PBR(Physically based rendering)  Technology this is a Modern Technology By Nvidia,**RTX not compatible with Fast Graphics mode set your Graphics Mode to Fancy**,Nvidiuim Mod make RTX overpower <br>
@@ -65,7 +65,7 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 
 
 
-## 🔥Performance
+## 🔥 Performance
 ![High Performance](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
 **Best Modpack for Potato PC**
 
@@ -74,7 +74,7 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 
 
 
-### Statics
+### 📊 Statics
 ![Modrinth Game Loader](https://img.shields.io/badge/modloader-Fabric-orange?style=for-the-badge&logo=fabricmc)
 ![Modrinth Game Versions](https://img.shields.io/badge/Minecraft-1.20.4,1.16.5-2ea44f?style=for-the-badge)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/sr0NwKN6?style=for-the-badge)
@@ -91,20 +91,15 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 <br>
 **Note:this is a Modrinth exclusive modpack this modpack not available website like curseforge**
 
-### 📥 Installation guide
+### 📦 Installation guide
 Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
 
 
 
 
 
-
-
-
-
-
 <details>
-<summary>🔬Mod-List/Resource Pack-List/Shader Pack-List</summary>
+<summary>🔬 Mod-List/Resource Pack-List/Shader Pack-List</summary>
 <a href="https://modrinth.com/mod/sodium" rel="nofollow">Sodium (Mod) By <strong>jellysquid3</strong></a><br>
 <a href="https://modrinth.com/mod/lithium" rel="nofollow">Lithium (Mod) By <strong>jellysquid3</strong></a><br>
 <a href="https://modrinth.com/mod/reeses-sodium-options" rel="nofollow">Reese's Sodium Options (Mod) By <strong>FlashyReese</strong></a><br>
@@ -184,7 +179,6 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optimized (Modpack)</a><br>  Modpack for config files <br>
 Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Additive (Modpack)</a><br>  readme inspired by this modpack
 </details>
-
 **OptiNa Reborn Based on original OptiNa Legacy** <br>
 [👴Legacy Version](https://modrinth.com/modpack/optina-fabric)
 
