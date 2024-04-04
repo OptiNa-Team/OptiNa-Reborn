@@ -1,13 +1,15 @@
 ![Hotfix](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/hotfix_changelog_banner.png?raw=true)
- - Fabric Loader Updated!
+- Fabric Loader Updated!
     - 0.15.7 to 1.15.9
- - added [Polytone (Mod)](https://modrinth.com/mod/polytone) By MehVahdJukaar 
+- added [Polytone (Mod)](https://modrinth.com/mod/polytone) By MehVahdJukaar 
     - Polytone is a client-side customization mod which allows tweaking various aspect with the game via Resource Packs and custom color!
 - Bug Fix
     - Low Frame Rate due to invalid version in config fixed!
- -  Mod Updates
+-  Mod Updates
     - Controlify (Mod) Updated. `Controlify 2.0.0-beta.1+1.20.4` to `Controlify 2.0.0-beta.2 for MC 1.20.4`
     - Fabric API (Mod) Updated. `[1.20.4] Fabric API 0.96.4+1.20.4` to `[1.20.4] Fabric API 0.96.11+1.20.4`
+- Settings
+    - Potato PC Settings included
 <br>
 
 [Get Potato PC Settings Here](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/%F0%9F%92%BB-Potato-PC-Settings)
