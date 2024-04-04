@@ -1,6 +1,6 @@
 {
   "last_seen_version": "2.0.0-beta.2+1.20.4",
-  "current_controller": "ad7c0f55-02d5-3c5a-bc44-432d21151944",
+  "current_controller": null,
   "controllers": {
     "dcc4ef3b-334a-333e-88e9-47578eb27136": {
       "config": {
@@ -426,12 +426,9 @@
           "virtual_mouse_sensitivity": 1.0,
           "reduce_aiming_sensitivity": true,
           "button_activation_threshold": 0.5,
-          "deadzones": {
-            "controlify:right_stick": 0.08001526,
-            "controlify:left_stick": 0.092436105
-          },
-          "deadzones_calibrated": true,
-          "delayed_calibration": false,
+          "deadzones": {},
+          "deadzones_calibrated": false,
+          "delayed_calibration": true,
           "mixed_input": false,
           "mapping": null
         },
@@ -444,8 +441,8 @@
           "show_ingame_guide": true,
           "ingame_guide_bottom": false,
           "show_screen_guides": true,
-          "show_on_screen_keyboard": true,
-          "chat_keyboard_height": 0.5,
+          "show_on_screen_keyboard": false,
+          "chat_keyboard_height": 0.0,
           "radial_actions": [
             "controlify:toggle_hud_visibility",
             "controlify:change_perspective",
@@ -458,6 +455,16 @@
           ],
           "radial_button_focus_timeout_ticks": 20,
           "dont_show_controller_submission": true
+        },
+        "controlify:rumble": {
+          "enabled": true,
+          "vibration_strengths": {
+            "controlify:gui": 1.0,
+            "controlify:interaction": 1.0,
+            "controlify:player": 1.0,
+            "controlify:master": 1.0,
+            "controlify:world": 1.0
+          }
         }
       },
       "bindings": {

@@ -1,5 +1,5 @@
 version:3700
-fullscreenMode:1
+fullscreenMode:0
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -16,7 +16,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -24,7 +24,7 @@ darkMojangStudiosBackground:true
 hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.5
-fov:0.0
+fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -44,7 +44,7 @@ graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"fast"
+renderClouds:"true"
 resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/OptiNa Resource Pack.zip"]
 incompatibleResourcePacks:["balm-fabric","e4mc_minecraft","modernfix","replaymod","rrls","spark","continuity:default","continuity:glass_pane_culling_fix"]
 lastServer:
@@ -78,7 +78,7 @@ glDebugVerbosity:1
 skipMultiplayerWarning:false
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
