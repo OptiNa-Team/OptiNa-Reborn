@@ -94,7 +94,7 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 
 
 <details>
-<summary>🔬 Mod-List/Resource Pack-List/Shader Pack-List</summary>
+<summary>🔬Mod-List/Resource Pack-List/Shader Pack-List</summary>
 <a href="https://modrinth.com/mod/sodium" rel="nofollow">Sodium (Mod) By <strong>jellysquid3</strong></a><br>
 <a href="https://modrinth.com/mod/lithium" rel="nofollow">Lithium (Mod) By <strong>jellysquid3</strong></a><br>
 <a href="https://modrinth.com/mod/reeses-sodium-options" rel="nofollow">Reese's Sodium Options (Mod) By <strong>FlashyReese</strong></a><br>
@@ -167,6 +167,7 @@ Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search >
 <a href="https://modrinth.com/mod/cubes-without-borders" rel="nofollow">Cubes Without Borders (Mod) By <strong>Kir_Antipov</strong></a><br>
 <a href="https://modrinth.com/mod/e4mc" rel="nofollow">e4mc (Mod) By <strong>vgskye</strong></a><br>
 <a href="https://modrinth.com/mod/cit-resewn" rel="nofollow">CIT Resewn (Mod) By <strong>shsupercm</strong></a><br>
+<a href="https://modrinth.com/mod/polytone" rel="nofollow">Polytone (Mod) By <strong>MehVahdJukaar</strong></a><br>
 </details>
 
 <details>
