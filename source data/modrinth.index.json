@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.5",
+  "versionId": "1.0.6",
   "name": "OptiNa Reborn",
   "summary": "Improve your Minecraft Graphics & Performance With OptiNa Modpack Explore The New (1.20)Trails & Tales Update!",
   "files": [
@@ -1087,7 +1087,7 @@
     }
   ],
   "dependencies": {
-    "fabric-loader": "0.15.7",
+    "fabric-loader": "0.15.9",
     "minecraft": "1.20.4"
   }
 }
