@@ -29,7 +29,7 @@ screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
-glintStrength:0.7570422535211268
+glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
