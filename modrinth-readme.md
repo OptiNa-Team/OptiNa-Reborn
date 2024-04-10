@@ -49,7 +49,7 @@
 
 
 <details>
-<summary>Differences Between Legacy & Reborn Version</summary>  
+<summary>⚽ Differences Between Legacy & Reborn Version</summary>  
 
 |               _**Features**_               | _**Legacy**_ | _**Reborn**_ |
 |----------------------------|--------|--------|
