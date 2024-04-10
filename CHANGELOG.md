@@ -1,4 +1,4 @@
-![Major Update](https://raw.githubusercontent.com/NotAGanesh/OptiNa-Reborn/96e2b5a8ad20879d8a0313231c3ce4b0c88c5fd9/update_banners/major_update.png)
+![Major Update](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/major_update.png?raw=true)
 - [Polytone (Mod)](https://modrinth.com/mod/polytone) by **MehVahdJukaar**
     - mod updated `1.20.4-1.17.4` to `1.20.4-1.18.0`
     - changelog: added overlay modifiers, a new tool to modify screen overlay sprites.Change their size, position and UVs
