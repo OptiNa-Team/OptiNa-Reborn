@@ -46,7 +46,7 @@ prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/OptiNa Resource Pack.zip"]
-incompatibleResourcePacks:["balm-fabric","e4mc_minecraft","modernfix","replaymod","rrls","spark","continuity:default","continuity:glass_pane_culling_fix"]
+incompatibleResourcePacks:["balm-fabric","e4mc_minecraft","modernfix","noisium","replaymod","rrls","spark","continuity:default","continuity:glass_pane_culling_fix"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -150,7 +150,7 @@ key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.u
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
-key_zoomify.key.zoom.secondary:key.keyboard.f6
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
