@@ -37,7 +37,7 @@
 - ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
 - ✔️ Model Gap Fix (Non OptiFine Feature)<br>
 
-### Differences Between Legacy & Reborn Version
+### ⚽ Differences Between Legacy & Reborn Version
 
 |               _**Features**_               | _**Legacy**_ | _**Reborn**_ |
 |----------------------------|--------|--------|
