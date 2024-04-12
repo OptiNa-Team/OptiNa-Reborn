@@ -40,7 +40,7 @@
 - ✔️ Performance: VSync <br>
 - ✔️ Custom Models <br>
 - ✔️ CIT models <br>
-- ✔️ Cape <br>
+- ✔️ OptiFine Cape [(and a free supporter cape)](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/OptiNa-Reborn-Cape) <br>
 - ✔️ Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
 - ✔️ Zoom <br>
 - ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
