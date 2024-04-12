@@ -1,5 +1,5 @@
 version:3700
-fullscreenMode:0
+fullscreenMode:1
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -16,7 +16,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -34,8 +34,8 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 gamma:0.5
-renderDistance:12
-simulationDistance:12
+renderDistance:8
+simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
