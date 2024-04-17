@@ -1,22 +1,37 @@
-![Major Update](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/major_update.png?raw=true)
-- [Polytone (Mod)](https://modrinth.com/mod/polytone) by **MehVahdJukaar**
-    - mod updated `1.20.4-1.17.4` to `1.20.4-1.18.0`
-    - changelog: added overlay modifiers, a new tool to modify screen overlay sprites.Change their size, position and UVs
-- [Main Menu Credits (Mod)](https://modrinth.com/mod/main-menu-credits) by **isxander**
-    - **OptiNa Reborn** Credit added `config\isxander-main-menu-credits.json`
-    - take a 4k screenshot screen bottom left sign added. this change is inspired from [Fabulously Optimized (Modpack)](https://modrinth.com/modpack/fabulously-optimized) by **Robotkoer**
-- [Zoomify (Mod)](https://modrinth.com/mod/zoomify) by **isxander**
-    - changes at options `OptiNa Reborn\options.txt`
-    - secondary zoom disabled due to non vanilla feeling. but you can still enable in Key binding
-- [Puzzle (Mod)](https://modrinth.com/mod/puzzle) by **Motschen**
-    - changes at configuration `config\puzzle.json`
-    - main menu credit removed due to less space
-    - disabledIntegrations cem,citresewn,continuity,cullleaves,entity_texture_features,iris,lambdabettergrass,dynamicfps and more..
-- [Unique Dark (Texture Pack/Resource Pack)](https://modrinth.com/resourcepack/unique-dark) by **AmongstReality**
-    - texture pack removed due to large `.mrpack` file size
-    - second reason is non vanilla feeling 
- 
+
+
+![Update Logo](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
+
+
+This hotfix contains bugs & crash fixes / content updates. we will update the game client `1.20.4` to `1.20.5` in the next update stay tuned!
+
+# Loaders Updates
+Fabric Loader Updated `0.15.9` to `0.15.10`
+
+# Content Updates
+- [Fabric API (Mod)](https://modrinth.com/mod/fabric-api) by **modmuss50** has been updated
+    - `[1.20.4] Fabric API 0.96.11+1.20.4` to `[1.20.4] Fabric API 0.97.0+1.20.4`
+- [Polytone (Mod)](https://modrinth.com/mod/polytone) by **MehVahdJukaar** has been updated
+    - `1.20.4-1.18.0` to `1.20.4-1.18.5`
+- [Remove Reloading Screen (Mod)](https://modrinth.com/mod/rrls) by **dima_dencep** has been updated
+    - `[Fabric 1.20.4] v4.0.2` to `[Fabric 1.20.4] v4.0.3`
+- [Resourcify (Mod)](https://modrinth.com/mod/resourcify) by **DeDiamondPro** has been updated
+    - `[1.20.2+-fabric] Resourcify 1.3.1` to `[1.20.2+-fabric] Resourcify 1.3.2`  
+- [Balm (Mod)](https://modrinth.com/mod/balm) by **BlayTheNinth** has been updated
+    - `9.0.6+fabric-1.20.4` to `9.0.7+fabric-1.20.4`  
+- [Controlify (Mod)](https://modrinth.com/mod/balm) by **isxander** has been updated
+    - `Controlify 2.0.0-beta.2 for MC 1.20.4` to `Controlify 2.0.0-beta.3 for MC 1.20.4`
+- [More Culling (Mod)](https://modrinth.com/mod/moreculling) by **FX** has been updated
+    - `MoreCulling - v0.22.1 for 1.20.[1-4]` to `MoreCulling - v0.23.1 for 1.20.[1-4]`
+
+# Bug Fixes / Crash Fixes
+- Fixed a crash that could occur during gameplay due to Balm (Mod)
+- Fixed stuck when a world loading due to Remove Reloading Screen (Mod)
+#
+
+***have a great day!,*** <br>
+***OptiNa Team***
+
 <br>
 
-[Get Potato PC Settings Here](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/%F0%9F%92%BB-Potato-PC-Settings)
-    
+![OptiNa Team](https://raw.githubusercontent.com/NotAGanesh/OptiNa-Team/c834c07242f36d99bc07b4e6b1219cd71d7470e0/badges/cozy.svg)
