@@ -1088,6 +1088,6 @@
   ],
   "dependencies": {
     "fabric-loader": "0.15.9",
-    "minecraft": "1.20.4"
+    "minecraft": "1.20.5"
   }
 }
