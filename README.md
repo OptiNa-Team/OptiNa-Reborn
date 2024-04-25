@@ -9,9 +9,7 @@
     ·
     <a href="https://github.com/NotAGanesh/OptiNa-Reborn/issues">Report Bugs</a>
   </p>
-   <p align="center">
-    <a href="https://discord.com/invite/jQkhpYHDBb">Stay Tuned for 1.20.5 at Discord!</a>
-   </p>
+
 
   <center><a href="https://modrinth.com/modpack/optina-reborn"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a></center>
   <center><a href="https://github.com/NotAGanesh/OptiNa-Reborn"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact-minimal/available/github_vector.svg" alt="Available on Github"></a></center>
