@@ -1,61 +1,23 @@
-
 ![Update Logo](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
 **Note: 1.20.5 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
 
-**We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.0.8 instead**
+**We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.0.8 instead or wait for Release Version**
 
-In this alpha release, we are excited to introduce support for the **Armored Paws update** aka [`1.20.5`](https://www.minecraft.net/en-us/article/armored-paws). This update brings several enhancements, including the addition of eight new wolf variations and more.
+In this alpha, we’ve brought back changes that were previously removed during the earlier alpha phase because they were outdated.
 
-However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too.
-
-# Game client
-game client updated to `1.20.4` to `1.20.5` [here is official changelog!](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-5)
-
-# Java Runtime Library Update
-java updated to **`Java 17`** to **`Java 21`**
-
-**Note: if you are using Modrinth App than you need to update the launcher for Java 21**
-
-# Temporarily removed Mods
+# Re-added Mods
 - Capes
-- Polytone
-- ThreadTweak
-- ImmediatelyFast
-- Fabrishot
-- CIT Resewn
-- Starlight
-- Noisium
-- Forge Config API Port
-- MouseTweaks
-- Balm
-- ReplayMod
-- Puzzle
-- AntiGhost
-- Model Gap Fix
 - Cube Without Borders
-- e4mc
-- BadOptimizations
-- Enhanced Block Entities
-- Indium
-- LambDynamicLights
-- LanguageReload
-- Lithium
-- NoChatReports
-- MoreCulling
-- OptiGUI
-- Euphoria Patches
-- Continuity
-- FerriteCore
-- and more...
+- Animatica
+- and 12 content...
 
-**Note: These mods will be return soon if they update the game client to 1.20.5 and config files still there!**
+**Note: Still There are a lot of mods are missing wait till Release phase**
 
-# Resource Pack Update
-- OptiNa Helper Pack
-    - 1.20.5 all splash text added!
-    - incorrect pack format version change `15` to `32`
- #
-
+# Major Issues Fixed
+- Config files are missing that re-added
+- `options.txt` missing that re-added
+#
+ 
 ***have a great day!,*** <br>
 ***OptiNa Team***
 
