@@ -1,33 +1,60 @@
 
-
 ![Update Logo](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
+**Note: 1.20.5 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
 
+**We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.0.8 instead**
 
-This hotfix contains bugs & crash fixes / content updates. we will update the game client `1.20.4` to `1.20.5` in the next update stay tuned!
+In this alpha release, we are excited to introduce support for the **Armored Paws update** aka [`1.20.5`](https://www.minecraft.net/en-us/article/armored-paws). This update brings several enhancements, including the addition of eight new wolf variations and more.
 
-# Loaders Updates
-Fabric Loader Updated `0.15.9` to `0.15.10`
+However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too.
 
-# Content Updates
-- [Fabric API (Mod)](https://modrinth.com/mod/fabric-api) by **modmuss50** has been updated
-    - `[1.20.4] Fabric API 0.96.11+1.20.4` to `[1.20.4] Fabric API 0.97.0+1.20.4`
-- [Polytone (Mod)](https://modrinth.com/mod/polytone) by **MehVahdJukaar** has been updated
-    - `1.20.4-1.18.0` to `1.20.4-1.18.5`
-- [Remove Reloading Screen (Mod)](https://modrinth.com/mod/rrls) by **dima_dencep** has been updated
-    - `[Fabric 1.20.4] v4.0.2` to `[Fabric 1.20.4] v4.0.3`
-- [Resourcify (Mod)](https://modrinth.com/mod/resourcify) by **DeDiamondPro** has been updated
-    - `[1.20.2+-fabric] Resourcify 1.3.1` to `[1.20.2+-fabric] Resourcify 1.3.2`  
-- [Balm (Mod)](https://modrinth.com/mod/balm) by **BlayTheNinth** has been updated
-    - `9.0.6+fabric-1.20.4` to `9.0.7+fabric-1.20.4`  
-- [Controlify (Mod)](https://modrinth.com/mod/balm) by **isxander** has been updated
-    - `Controlify 2.0.0-beta.2 for MC 1.20.4` to `Controlify 2.0.0-beta.3 for MC 1.20.4`
-- [More Culling (Mod)](https://modrinth.com/mod/moreculling) by **FX** has been updated
-    - `MoreCulling - v0.22.1 for 1.20.[1-4]` to `MoreCulling - v0.23.1 for 1.20.[1-4]`
+# Game client
+game client updated to `1.20.4` to `1.20.5` [here is official changelog!](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-5)
 
-# Bug Fixes / Crash Fixes
-- Fixed a crash that could occur during gameplay due to Balm (Mod)
-- Fixed stuck when a world loading due to Remove Reloading Screen (Mod)
-#
+# Java Runtime Library Update
+java updated to **`Java 17`** to **`Java 21`**
+
+**Note: if you are using Modrinth App than you need to update the launcher for Java 21**
+
+# Temporarily removed Mods
+- Capes
+- Polytone
+- ThreadTweak
+- ImmediatelyFast
+- Fabrishot
+- CIT Resewn
+- Starlight
+- Noisium
+- Forge Config API Port
+- MouseTweaks
+- Balm
+- ReplayMod
+- Puzzle
+- AntiGhost
+- Model Gap Fix
+- Cube Without Borders
+- e4mc
+- BadOptimizations
+- Enhanced Block Entities
+- Indium
+- LambDynamicLights
+- LanguageReload
+- Lithium
+- NoChatReports
+- MoreCulling
+- OptiGUI
+- Euphoria Patches
+- Continuity
+- FerriteCore
+- and more...
+
+**Note: These mods will be return soon if they update the game client to 1.20.5 and config files still there!**
+
+# Resource Pack Update
+- OptiNa Helper Pack
+    - 1.20.5 all splash text added!
+    - incorrect pack format version change `15` to `32`
+ #
 
 ***have a great day!,*** <br>
 ***OptiNa Team***
