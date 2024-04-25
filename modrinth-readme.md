@@ -8,9 +8,7 @@
     ·
     <a href="https://github.com/NotAGanesh/OptiNa-Reborn/issues">Report Bugs</a>
   </p>
-     <p align="center">
-    <a href="https://discord.com/invite/jQkhpYHDBb">Stay Tuned for 1.20.5 at Discord!</a>
-   </p>
+
   
 </center>
 
