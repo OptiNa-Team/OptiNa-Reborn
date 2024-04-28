@@ -18,7 +18,7 @@ However, it’s important to note that some mods may still have bugs and glitche
 - FerriteCore
 - Continuity
  
-**Note: Still There are a lot of mods are missing wait till Release phase. [checkout full list here](https://github.com/NotAGanesh/OptiNa-Reborn/blob/modpack-list/outdated-mods.md)**
+**Note: Still There are a lot of mods are missing wait until Release phase. [checkout full list here](https://github.com/NotAGanesh/OptiNa-Reborn/blob/modpack-list/outdated-mods.md)**
 #
 
 ***have a great day!,*** <br>
