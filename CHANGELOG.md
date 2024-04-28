@@ -1,3 +1,4 @@
+
 ![Update Logo](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
 **Note: 1.20.5 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
 
@@ -5,18 +6,17 @@
 
 In this alpha, we’ve brought back changes that were previously removed during the earlier alpha phase because they were outdated.
 
+Mods have been updated in this alpha version.
+
 # Re-added Mods
-- Capes
-- Cube Without Borders
-- Animatica
-- and 12 content...
-
-**Note: Still There are a lot of mods are missing wait till Release phase**
-
-# Major Issues Fixed
-- Config files are missing that re-added
-- `options.txt` missing that re-added
-#
+- Resourcify
+- BadOptimizations
+- MoreCulling
+- ImmediatelyFast
+- Fabrishot
+- FerriteCore
+ 
+**Note: Still There are a lot of mods are missing wait till Release phase. [checkout full list here](https://github.com/NotAGanesh/OptiNa-Reborn/blob/modpack-list/outdated-mods.md)**
  
 ***have a great day!,*** <br>
 ***OptiNa Team***
