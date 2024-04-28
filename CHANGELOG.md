@@ -1,4 +1,3 @@
-
 ![Update Logo](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
 **Note: 1.20.5 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
 
@@ -8,6 +7,8 @@ In this alpha, we’ve brought back changes that were previously removed during 
 
 Mods have been updated in this alpha version.
 
+However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too.
+
 # Re-added Mods
 - Resourcify
 - BadOptimizations
@@ -15,9 +16,11 @@ Mods have been updated in this alpha version.
 - ImmediatelyFast
 - Fabrishot
 - FerriteCore
+- Continuity
  
 **Note: Still There are a lot of mods are missing wait till Release phase. [checkout full list here](https://github.com/NotAGanesh/OptiNa-Reborn/blob/modpack-list/outdated-mods.md)**
- 
+#
+
 ***have a great day!,*** <br>
 ***OptiNa Team***
 
