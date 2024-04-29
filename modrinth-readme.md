@@ -54,6 +54,10 @@ OptiFine is a closed-source mod, resulting in incompatibilites with many other p
 - ✔️ Zoom <br>
 - ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
 - ✔️ Model Gap Fix (Non OptiFine Feature)<br>
+
+| Shaders | OptiFine Cape | Connected Textures | Better Grass | Dynamic Lights |
+|---------|---------------|--------------------|--------------|----------------|
+|![Shaders](https://cdn.modrinth.com/data/sr0NwKN6/images/5ba27d52bcd7373b3fff5b9b1aee315819f89f83.png)         |![OptiFine Cape](https://cdn.modrinth.com/data/sr0NwKN6/images/81e82dd0d0bbe24ea482bf8dcd4bb4576da06df0.png)               |![Connected Textures](https://cdn.modrinth.com/data/sr0NwKN6/images/ab17214dca21bd6f20704290eedfd97e7eb47211.png)                    |![Better Grass](https://cdn.modrinth.com/data/sr0NwKN6/images/1075b78aeaa6ebd1846432fc60eeccb9eed96b95.png)              |![Dynamic Lights](https://cdn.modrinth.com/data/sr0NwKN6/images/8e54117b4db4f3b86e66d0fff5888be6f1cc2b03.png)                |
 </details>
 
 
@@ -77,6 +81,13 @@ OptiFine is a closed-source mod, resulting in incompatibilites with many other p
 ![RTX info](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/rtx_modrinth_homepage.png?raw=true)
 How to apply RTX: **Open Minecraft > Options > Shaders > Enable** <br>
 Ray tracing  brings a brand new experience to **Minecraft! Experience creator-built worlds with realistic lighting, vibrant colors, naturally reflective water and emissive textures that light up.**,Ray Tracing based on **[Complementary Shaders](https://complementary.dev/)**,RTX use's PBR(Physically based rendering)  Technology this is a Modern Technology By Nvidia,**RTX not compatible with Fast Graphics mode set your Graphics Mode to Fancy**,Nvidiuim Mod make RTX overpower <br>
+
+This RTX is not an actual RTX.
+
+| Example |
+|---------|
+|![Example](https://cdn.modrinth.com/data/sr0NwKN6/images/1416170dea96de7cb2f7fd4ff20f246a9913b9e5.png)         |
+
 Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 </details>
 
@@ -217,8 +228,6 @@ Thanks to <a href="https://modrinth.com/modpack/additive" rel="nofollow">Additiv
 <summary>📚 Fun fact:</summary>
   
 **OptiNa Reborn Based on original OptiNa Legacy** <br>
-[👴Legacy Version](https://modrinth.com/modpack/optina-fabric)
-</details>
 
 **_Hope you enjoy this modpack!_**
 
