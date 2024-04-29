@@ -116,9 +116,15 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 </details>
 
 <details>
-<summary>📦 Installation guide</summary>    
+<summary>📦 Easy to Install</summary>    
 
-Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
+1. Download the [**Modrinth App.**](https://modrinth.com/app) or install any Modrinth modpack compatible launchers like **ATLauncher, MultiMC, and Prism Launcher.**
+2. Click on **Browse**.
+3. Select **Search**.
+4. Type “**OptiNa Reborn**”.
+5. Click **Install**.
+
+You’re all set! 🌟. Enjoy! 
 </details>
 
 
@@ -215,3 +221,4 @@ Thanks to <a href="https://modrinth.com/modpack/additive" rel="nofollow">Additiv
 </details>
 
 **_Hope you enjoy this modpack!_**
+
