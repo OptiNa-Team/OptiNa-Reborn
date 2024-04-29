@@ -110,7 +110,7 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 </details>
 
 <details>
-<summary>📦 Installation guide</summary>    
+<summary>📦 Easy to Install</summary>    
 
 Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
 </details>
