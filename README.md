@@ -19,10 +19,21 @@
 </div>
   
 
-## 📖 Information 
-> The modpack aims to recreates the features of the popular **OptiFine** mod in Fabric using **[Sodium](https://modrinth.com/mod/sodium)**. **OptiFine features such as HD Textures, Custom Models, CIT models, OptiFine cape and Cloaks, Shaders, OptiFine zoom, Model Gap Fix,Dynamic Lights and more** are supported,The modpack is compatible with [Minecraft: Java Edition ](https://minecraft.wiki/w/Java_Edition)(Fabric) and is faster than Vanilla/OptiFine, thanks to the modern mods like _Lithium, Sodium, Dynamic FPS, Memory Leak Fix, and Spark_,OptiNa Reborn is lightweight and **One bonus feature of OptiNa Reborn is that it updates faster than OptiFine with new versions**
+### 📖 About 
+OptiNa Reborn is a free and lightweight alternative to OptiFine, designed for modern Minecraft versions using the Fabric platform. It brings back all the features from OptiFine while adding a few extras. Notably, it’s optimized using Sodium. a modern Render Engine for minecraft, ensuring smooth performance even on less powerful computers. Plus, we update faster than OptiFine!
 
-### 🚀 OptiFine parity
+## Why Choose OptiNa Reborn?
+<details>
+<summary> 💻 Best Compatibility</summary>
+
+OptiFine is a closed-source mod, resulting in incompatibilites with many other popular mods, and rendering issues on some multiplayer servers that use custom models. OptiNa Reborn aims to fix both of these issues at once by being built upon as many open-source mods as possible!
+</details>
+
+
+
+<details>
+<summary> 🚀 OptiFine parity</summary>  
+
 - ✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
 - ✔️ FPS Boost <br>
 - ✔️ FPS control <br>
@@ -38,7 +49,14 @@
 - ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
 - ✔️ Model Gap Fix (Non OptiFine Feature)<br>
 
-### ⚽ Differences Between Legacy & Reborn Version
+| Shaders | OptiFine Cape | Connected Textures | Better Grass | Dynamic Lights |
+|---------|---------------|--------------------|--------------|----------------|
+|![Shaders](https://cdn.modrinth.com/data/sr0NwKN6/images/5ba27d52bcd7373b3fff5b9b1aee315819f89f83.png)         |![OptiFine Cape](https://cdn.modrinth.com/data/sr0NwKN6/images/81e82dd0d0bbe24ea482bf8dcd4bb4576da06df0.png)               |![Connected Textures](https://cdn.modrinth.com/data/sr0NwKN6/images/ab17214dca21bd6f20704290eedfd97e7eb47211.png)                    |![Better Grass](https://cdn.modrinth.com/data/sr0NwKN6/images/1075b78aeaa6ebd1846432fc60eeccb9eed96b95.png)              |![Dynamic Lights](https://cdn.modrinth.com/data/sr0NwKN6/images/8e54117b4db4f3b86e66d0fff5888be6f1cc2b03.png)                |
+</details>
+
+
+<details>
+<summary>⚽ Differences Between Legacy & Reborn Version</summary>  
 
 |               _**Features**_               | _**Legacy**_ | _**Reborn**_ |
 |----------------------------|--------|--------|
@@ -49,35 +67,48 @@
 | Classic Zoom Style (OptiFine Style Zoom) | ✓      | ✓      |
 | Fancy Zoom Style (Zoomify Mod)          | ✖          | ✓          |
 | Ray Tracing | ✖          | ✓          |
+</details>
 
-
-
-## ✨ Ray Tracing (Bedrock RTX)
+<details>
+<summary>✨ Ray Tracing (Bedrock RTX)</summary>
+  
 ![RTX info](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/rtx_modrinth_homepage.png?raw=true)
 How to apply RTX: **Open Minecraft > Options > Shaders > Enable** <br>
 Ray tracing  brings a brand new experience to **Minecraft! Experience creator-built worlds with realistic lighting, vibrant colors, naturally reflective water and emissive textures that light up.**,Ray Tracing based on **[Complementary Shaders](https://complementary.dev/)**,RTX use's PBR(Physically based rendering)  Technology this is a Modern Technology By Nvidia,**RTX not compatible with Fast Graphics mode set your Graphics Mode to Fancy**,Nvidiuim Mod make RTX overpower <br>
+
+This RTX is not an actual RTX.
+
+| Example |
+|---------|
+|![Example](https://cdn.modrinth.com/data/sr0NwKN6/images/1416170dea96de7cb2f7fd4ff20f246a9913b9e5.png)         |
+
 Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
+</details>
 
 
 
+<details>
+<summary>🔥 Performance</summary>  
 
-
-## 🔥 Performance
 ![High Performance](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
 **Best Modpack for Potato PC**
+</details>
 
 
 
 
+<details>
+<summary>📊 Statics</summary>  
 
-
-### 📊 Statics
 ![Modrinth Game Loader](https://img.shields.io/badge/modloader-Fabric-orange?style=for-the-badge&logo=fabricmc)
 ![Modrinth Game Versions](https://img.shields.io/badge/Minecraft-1.20.4,1.16.5-2ea44f?style=for-the-badge)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/sr0NwKN6?style=for-the-badge)
 ![Modrinth Followers](https://img.shields.io/modrinth/followers/sr0NwKN6?style=for-the-badge)
+</details>
 
-### ☵ Available at
+<details>
+<summary>☵ Available at</summary>    
+
 <a href="https://modrinth.com/modpack/optina-reborn" rel="OptiNa Reborn"><img src="https://img.shields.io/badge/-MODRINTH-RRRRRR?logo=Modrinth&logoColor=white&style=for-the-badge" alt="Modrinth" /></a> 
 <a href="https://github.com/NotAGanesh/OptiNa-Reborn" rel="OptiNa Reborn Github"><img src="https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white&style=for-the-badge" alt="Github" /></a> 
 <a href="https://gitlab.com/optina-team/OptiNa-Reborn" rel="OptiNa Reborn Gitlab"><img src="https://img.shields.io/badge/-GITLAB-FF6800?logo=GITLAB&logoColor=white&style=for-the-badge" alt="Gitlab" /></a> 
@@ -87,10 +118,19 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 <a href="https://www.apple.com/macos/" rel="MacOS"><img src="https://img.shields.io/badge/-MACOS-FFBD00?logo=APPLE&logoColor=white&style=for-the-badge" alt="MacOS" /></a> 
 <br>
 **Note:this is a Modrinth exclusive modpack this modpack not available website like curseforge**
+</details>
 
-### 📦 Installation guide
-Download [Modrinth App](https://modrinth.com/app) than click **Browse > Search > Type "OptiNa Reborn" click on **Install** you're done!**
+<details>
+<summary>📦 Easy to Install</summary>    
 
+1. Download the [**Modrinth App.**](https://modrinth.com/app) or install any Modrinth modpack compatible launchers like **ATLauncher, MultiMC, and Prism Launcher.**
+2. Click on **Browse**.
+3. Select **Search**.
+4. Type “**OptiNa Reborn**”.
+5. Click **Install**.
+
+You’re all set! 🌟. Enjoy! 
+</details>
 
 
 
@@ -178,7 +218,9 @@ Thanks to <a href="https://modrinth.com/modpack/sop" rel="nofollow">Simply Optim
 Thanks to <a href="https://modrinth.com/modpack/additive" rel="nofollow">Additive (Modpack)</a><br>  readme inspired by this modpack
 </details>
 
+<details>
+<summary>📚 Fun fact:</summary>
+  
 **OptiNa Reborn Based on original OptiNa Legacy** <br>
-[👴Legacy Version](https://modrinth.com/modpack/optina-fabric)
 
 **_Hope you enjoy this modpack!_**
