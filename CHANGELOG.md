@@ -1,25 +1,26 @@
 ![Update Logo](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
-**Note: 1.20.5 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
+**Note: 1.20.6 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
 
-**We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.0.8 instead or wait for Release Version**
+**We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.0.8 instead**
 
-In this alpha, we’ve brought back changes that were previously removed during the earlier alpha phase because they were outdated.
-
-Mods have been updated in this alpha version.
+In this alpha release, we are excited to introduce support for the [`1.20.6`](https://minecraft.wiki/w/Java_Edition_1.20.6). This update brings several enhancements, including the addition of eight new wolf variations and more.
 
 However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too.
 
-# Re-added Mods
-- Resourcify
-- BadOptimizations
-- MoreCulling
-- ImmediatelyFast
+# Game client
+game client updated to `1.20.5` to `1.20.6` [here is official changelog!](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-6)
+
+**Note: if you are using Modrinth App than you need to update the launcher for Java 21**
+
+# Temporarily removed Mods
+- Debugify
+- EntityCulling
 - Fabrishot
-- FerriteCore
-- Continuity
- 
-**Note: Still There are a lot of mods are missing wait until Release phase. [checkout full list here](https://github.com/NotAGanesh/OptiNa-Reborn/blob/modpack-list/outdated-mods.md)**
-#
+
+[Here is full list](https://github.com/NotAGanesh/OptiNa-Reborn/blob/modpack-list/outdated-mods.md)
+
+**Note: These mods will be return soon if they update the game client to 1.20.5 and config files still there!**
+ #
 
 ***have a great day!,*** <br>
 ***OptiNa Team***
