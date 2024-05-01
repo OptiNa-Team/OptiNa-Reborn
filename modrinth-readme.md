@@ -228,6 +228,7 @@ Thanks to <a href="https://modrinth.com/modpack/additive" rel="nofollow">Additiv
 <summary>📚 Fun fact:</summary>
   
 **OptiNa Reborn Based on original OptiNa Legacy** <br>
+</details>
 
 **_Hope you enjoy this modpack!_**
 
