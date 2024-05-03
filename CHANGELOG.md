@@ -8,8 +8,7 @@ in this alpha release. we are adding our old removed mods. due to 1.20.6 not sup
 
 **Note: if you are using Modrinth App than you need to update the launcher for Java 21**
 
-- Re-Added Mods Mouse Tweaks, Sodium Shadowy Path Blocks, <br>
-Forge Config API Port, FastQuit, Fabrishot
+- Re-Added Mods Mouse Tweaks, Sodium Shadowy Path Blocks, Forge Config API Port, FastQuit, Fabrishot
 
 **Note: Still many old mods missing due to 1.20.6 not supported yet. if they update i will soon add it.**
 
