@@ -3,23 +3,17 @@
 
 **We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.0.8 instead**
 
-In this alpha release, we are excited to introduce support for the [`1.20.6`](https://minecraft.wiki/w/Java_Edition_1.20.6). This update brings several enhancements, including the addition of eight new wolf variations and more.
+in this alpha release. we are adding our old removed mods. due to 1.20.6 not supported
 
-However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too.
-
-# Game client
-game client updated to `1.20.5` to `1.20.6` [here is official changelog!](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-6)
 
 **Note: if you are using Modrinth App than you need to update the launcher for Java 21**
 
-# Temporarily removed Mods
-- Debugify
-- EntityCulling
-- Fabrishot
+- Re-Added Mods Mouse Tweaks, Sodium Shadowy Path Blocks, <br>
+Forge Config API Port, FastQuit, Fabrishot
+
+**Note: Still many old mods missing due to 1.20.6 not supported yet. if they update i will soon add it.**
 
 [Here is full list](https://github.com/NotAGanesh/OptiNa-Reborn/blob/modpack-list/outdated-mods.md)
-
-**Note: These mods will be return soon if they update the game client to 1.20.5 and config files still there!**
  #
 
 ***have a great day!,*** <br>
