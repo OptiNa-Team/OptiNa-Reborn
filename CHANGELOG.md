@@ -5,13 +5,16 @@
 
 in this alpha release. we are adding our old removed mods. due to 1.20.6 not supported
 
-However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too. and crashes are common problem
+However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too. and crashes are common problem.
 
 
 **Note: if you are using Modrinth App than you need to update the launcher for Java 21**
+# Modloader Updates
+- Fabric Loader Updated!
+    - updated `0.15.10` to `0.15.11`
+# Re-added Mods
+- Re-Added Mods: **Indium, Lithium, Krypton, Bobby**
 
-- Re-Added Mods Mouse Tweaks, Sodium Shadowy Path Blocks, 
-Forge Config API Port, FastQuit, Fabrishot
 
 **Note: Still many old mods missing due to 1.20.6 not supported yet. if they update i will soon add it.**
 
