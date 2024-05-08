@@ -1,24 +1,22 @@
-![Update Logo](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
-**Note: 1.20.6 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
+![Major Update](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/major_update.png?raw=true)
 
-**We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.0.8 instead**
+in this last major update of `1.20.4`. we are upgrading all the mods and content. including config file! mainly technical changes!
 
-in this alpha release. we are adding our old removed mods. due to 1.20.6 not supported
+it's hard to mention all mods and took way more time so didn't mentioned
 
-However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too. and crashes are common problem.
-
-
-**Note: if you are using Modrinth App than you need to update the launcher for Java 21**
 # Modloader Updates
 - Fabric Loader Updated!
     - updated `0.15.10` to `0.15.11`
-# Re-added Mods
-- Re-Added Mods: **Indium, Lithium, Krypton, Bobby**
+
+# Config file Updates
+- More Lightweight Config files
+- Removed all unnecessary files
+- config files destination changed to `config\yosbr`
+
+# Media Changes
+- [test2](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/media/fps_test/test2.png?raw=true) by **AxI0**
 
 
-**Note: Still many old mods missing due to 1.20.6 not supported yet. if they update i will soon add it.**
-
-[Here is full list](https://github.com/NotAGanesh/OptiNa-Reborn/blob/modpack-list/outdated-mods.md)
  #
 
 ***have a great day!,*** <br>
