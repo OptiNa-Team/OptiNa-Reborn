@@ -104,10 +104,10 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 
 
 <details>
-<summary>📊 Statics</summary>  
+<summary>🗺️ Statics</summary>  
 
 ![Modrinth Game Loader](https://img.shields.io/badge/modloader-Fabric-orange?style=for-the-badge&logo=fabricmc)
-![Modrinth Game Versions](https://img.shields.io/badge/Minecraft-1.20.4,1.16.5-2ea44f?style=for-the-badge)
+![Modrinth Game Versions](https://img.shields.io/badge/Minecraft-1.16.5,1.20.4,1.20.5,.1.20.6-2ea44f?style=for-the-badge)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/sr0NwKN6?style=for-the-badge)
 ![Modrinth Followers](https://img.shields.io/modrinth/followers/sr0NwKN6?style=for-the-badge)
 </details>
