@@ -40,20 +40,20 @@ OptiFine is a closed-source mod, resulting in incompatibilites with many other p
 <details>
 <summary> 🚀 OptiFine parity</summary>  
 
-- ✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
-- ✔️ FPS Boost <br>
-- ✔️ FPS control <br>
-- ✔️ Configurable Details <br>
-- ✔️ Configurable animations <br>
-- ✔️ Connected Textures [info](https://imgur.com/a/YQz3b) <br>
-- ✔️ Performance: VSync <br>
-- ✔️ Custom Models <br>
-- ✔️ CIT models <br>
-- ✔️ OptiFine Cape [(and a free supporter cape)](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/OptiNa-Reborn-Cape) <br>
-- ✔️ Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
-- ✔️ Zoom <br>
-- ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
-- ✔️ Model Gap Fix (Non OptiFine Feature)<br>
+1. HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
+2. FPS Boost <br>
+3. FPS control <br>
+4. Configurable Details <br>
+5. Configurable animations <br>
+6. Connected Textures [info](https://imgur.com/a/YQz3b) <br>
+7. Performance: VSync <br>
+8. Custom Models <br>
+9. CIT models <br>
+10. OptiFine Cape [(and a free supporter cape)](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/OptiNa-Reborn-Cape) <br>
+11. Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
+12. Zoom <br>
+13. Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
+14. Model Gap Fix (Non OptiFine Feature)<br>
 
 | Shaders | OptiFine Cape | Connected Textures | Better Grass | Dynamic Lights |
 |---------|---------------|--------------------|--------------|----------------|
