@@ -233,5 +233,3 @@ Thanks to <a href="https://modrinth.com/modpack/additive" rel="nofollow">Additiv
 <hr>
 
 **_hope you enjoy this modpack! ♥️_**
-
-
