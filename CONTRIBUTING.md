@@ -71,3 +71,4 @@
 <a href="https://modrinth.com/mod/e4mc" rel="nofollow">e4mc (Mod) By <strong>vgskye</strong></a><br>
 <a href="https://modrinth.com/mod/cit-resewn" rel="nofollow">CIT Resewn (Mod) By <strong>shsupercm</strong></a><br>
 <a href="https://modrinth.com/mod/polytone" rel="nofollow">Polytone (Mod) By <strong>MehVahdJukaar</strong></a><br>
+<a href="https://modrinth.com/resourcepack/optina-reborn-rp" rel="nofollow">OptiNa Reborn RP (Resource Pack) By <strong>NotAGanesh</strong></a><br>

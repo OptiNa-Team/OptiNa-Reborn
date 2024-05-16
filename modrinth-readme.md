@@ -40,20 +40,20 @@ OptiFine is a closed-source mod, resulting in incompatibilites with many other p
 <details>
 <summary> 🚀 OptiFine parity</summary>  
 
-- ✔️ HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
-- ✔️ FPS Boost <br>
-- ✔️ FPS control <br>
-- ✔️ Configurable Details <br>
-- ✔️ Configurable animations <br>
-- ✔️ Connected Textures [info](https://imgur.com/a/YQz3b) <br>
-- ✔️ Performance: VSync <br>
-- ✔️ Custom Models <br>
-- ✔️ CIT models <br>
-- ✔️ OptiFine Cape [(and a free supporter cape)](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/OptiNa-Reborn-Cape) <br>
-- ✔️ Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
-- ✔️ Zoom <br>
-- ✔️ Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
-- ✔️ Model Gap Fix (Non OptiFine Feature)<br>
+1. HD Textures [info](https://www.minecraftforum.net/topic/249637-/#HDTextures&#91) <br>
+2. FPS Boost <br>
+3. FPS control <br>
+4. Configurable Details <br>
+5. Configurable animations <br>
+6. Connected Textures [info](https://imgur.com/a/YQz3b) <br>
+7. Performance: VSync <br>
+8. Custom Models <br>
+9. CIT models <br>
+10. OptiFine Cape [(and a free supporter cape)](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/OptiNa-Reborn-Cape) <br>
+11. Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
+12. Zoom <br>
+13. Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
+14. Model Gap Fix (Non OptiFine Feature)<br>
 
 | Shaders | OptiFine Cape | Connected Textures | Better Grass | Dynamic Lights |
 |---------|---------------|--------------------|--------------|----------------|
@@ -104,10 +104,10 @@ Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 
 
 <details>
-<summary>📊 Statics</summary>  
+<summary>🗺️ Statics</summary>  
 
 ![Modrinth Game Loader](https://img.shields.io/badge/modloader-Fabric-orange?style=for-the-badge&logo=fabricmc)
-![Modrinth Game Versions](https://img.shields.io/badge/Minecraft-1.20.4,1.16.5-2ea44f?style=for-the-badge)
+![Modrinth Game Versions](https://img.shields.io/badge/Minecraft-1.16.5,1.20.4,1.20.5,.1.20.6-2ea44f?style=for-the-badge)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/sr0NwKN6?style=for-the-badge)
 ![Modrinth Followers](https://img.shields.io/modrinth/followers/sr0NwKN6?style=for-the-badge)
 </details>
@@ -216,6 +216,7 @@ You’re all set! 🌟. Enjoy!
 <a href="https://modrinth.com/mod/e4mc" rel="nofollow">e4mc (Mod) By <strong>vgskye</strong></a><br>
 <a href="https://modrinth.com/mod/cit-resewn" rel="nofollow">CIT Resewn (Mod) By <strong>shsupercm</strong></a><br>
 <a href="https://modrinth.com/mod/polytone" rel="nofollow">Polytone (Mod) By <strong>MehVahdJukaar</strong></a><br>
+<a href="https://modrinth.com/resourcepack/optina-reborn-rp" rel="nofollow">OptiNa Reborn RP (Resource Pack) By <strong>NotAGanesh</strong></a><br>
 </details>
 
 <details>
@@ -227,8 +228,9 @@ Thanks to <a href="https://modrinth.com/modpack/additive" rel="nofollow">Additiv
 <details>
 <summary>📚 Fun fact:</summary>
   
-**OptiNa Reborn Based on original OptiNa Legacy** <br>
+**OptiNa Reborn Based off original OptiNa Legacy** <br>
 </details>
 
-**_Hope you enjoy this modpack!_**
+<hr>
 
+**_hope you enjoy this modpack! ♥️_**
