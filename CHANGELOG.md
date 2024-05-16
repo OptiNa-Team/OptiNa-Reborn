@@ -1,24 +1,66 @@
-![Major Update](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/major_update.png?raw=true)
+![Update Logo](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
+**Note: 1.20.6 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
 
-in this last major update of `1.20.4`. we are upgrading all the mods and content. including config file! mainly technical changes!
+### ⚠️ Caution: **We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.1.5 instead, if you have an desire to play 1.20.6 with all features we are suggesting for an Major Release (Release Channel)**
 
-it's hard to mention all mods and took way more time so didn't mentioned
+in this huge alpha release. we are adding our old removed mods. due to 1.20.6 not supported. and update mods,
 
-# Modloader Updates
-- Fabric Loader Updated!
-    - updated `0.15.10` to `0.15.11`
+We are updating configuration files and OptiNa Reborn RP. with less `.mrpack` size!
 
-# Config file Updates
-- More Lightweight Config files
-- Removed all unnecessary files
-- config files destination changed to `config\yosbr`
+However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too. and crashes are common problem.
 
-# Media Changes
-- [test2](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/media/fps_test/test2.png?raw=true) by **AxI0**
 
+**Note: if you are using Modrinth App than you need to update the launcher for Java 21**
+## Content Updates
+- [Continuity (Mod)](https://modrinth.com/mod/continuity) By **PepperCode1** has been updated
+    - `3.0.0-beta.4+1.20.2` to `3.0.0-beta.5+1.20.5`
+- [Remove Reloading Screen (Mod)](https://modrinth.com/mod/rrls) By **dima_dencep** has been updated
+    - `[Fabric 1.20.5] v4.0.4` to `[Fabric 1.20.6] v4.0.5`
+- [Zoomify (Mod)](https://modrinth.com/mod/zoomify/) By **isxander** has been updated
+    - `2.13.3` to `Zoomify 2.13.4 for MC 1.20.6`
+- [Fabric API (Mod)](https://modrinth.com/mod/fabric-api) By **isxander** has been updated
+    - `[1.20.6] Fabric API 0.97.8+1.20.6` to `[1.20.6] Fabric API 0.98.0+1.20.6`
+- [Modern Fix (Mod)](https://modrinth.com/mod/modernfix) By **isxander** has been updated
+    - `5.17.2+mc1.20.6` to `5.17.3+mc1.20.6`
+- [Fabric Language Kotlin (Mod)](https://modrinth.com/mod/fabric-language-kotlin) By **modmuss50** has been updated
+    - `Fabric Language Kotlin 1.10.19+kotlin.1.9.23` to `Fabric Language Kotlin 1.10.20+kotlin.1.9.24`
+      
+## Re-added Mods
+- [ThreadTweak (Mod)](https://modrinth.com/mod/threadtweak) by **getchoo** has been re-added
+- [Language Reload (Mod)](https://modrinth.com/mod/language-reload) by **Jerozgen** has been re-added
+- [Polytone (Mod)](https://modrinth.com/mod/polytone) by **MehVahdJukaar** has been re-added
+- [Nvidium (Mod)](https://modrinth.com/mod/nvidium) by **cortex** has been re-added
+- [Better Mount HUD (Mod)](https://modrinth.com/mod/better-mount-hud) by **Lortseam** has been re-added
+- [No Chat Reports (Mod)](https://modrinth.com/mod/no-chat-reports) by **Aizistral** has been re-added
+- [Debugify (Mod)](https://modrinth.com/mod/debugify) by **isxander** has been re-added
+
+ <br>
+
+- **Temporary Removed Content**
+    - **Euphoria Patches, Balm, Enhanced Block Entities, AntiGhost, Noisium, Starlight, CIT Resewn, LambDynamicLights, Memory Leak Fix, LazyDFU, ReplayMod, Solas Shader**
+- **Temporary Removed Features**
+    - **Dynamic Lights (LambDynamicLights), Bedrock RTX (Euphoria Patches)**
+      
+**Note: Still many old mods are missing due to 1.20.6 not supported yet. if they update i will soon add it.**
+
+[Here is full list](https://github.com/NotAGanesh/OptiNa-Reborn/issues/18)
+## Config file changes
+- `v1.1.5 - Release` config files style implemented
+     - config files location moved `config/yosbr`
+     - more lightweight config
+     - removed unnecessary files
+
+## OptiNa Reborn RP Changes
+- Renamed pack
+   - `OptiNa Resource Pack` to `OptiNa Reborn RP`
+- icon changed.
+   - `pack.png`
+   - icon Text Changed `Op` to `RP` to indicate Resource Pack
+- removed folder.
+   - `assets\realms` folder has been removed due to unnecessary space
 
  #
-
+ 
 ***have a great day!,*** <br>
 ***OptiNa Team***
 
