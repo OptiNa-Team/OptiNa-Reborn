@@ -82,7 +82,7 @@ This RTX is not an actual RTX.
 |---------|
 |![Example](https://cdn.modrinth.com/data/sr0NwKN6/images/1416170dea96de7cb2f7fd4ff20f246a9913b9e5.png)         |
 
-Note: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
+## ⚠️ Caution: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 </details>
 
 
