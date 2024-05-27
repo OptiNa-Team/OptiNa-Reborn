@@ -1,5 +1,5 @@
 version:3839
-fullscreenMode:0
+fullscreenMode:1
 ao:true
 biomeBlendRadius:2
 enableVsync:false
@@ -13,7 +13,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:0.5
 graphicsMode:0
 guiScale:2
@@ -49,7 +49,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","file/OptiNa Reborn RP.zip"]
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/OptiNa Reborn RP.zip"]
 incompatibleResourcePacks:["e4mc_minecraft","modernfix","resourcify","spark","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
