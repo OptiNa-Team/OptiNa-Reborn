@@ -27,7 +27,7 @@ it's hard to mention all mods so we didn't add in changelog, all mods has been u
 
 ##
 - **Temporary Removed Content**
-    - **Enhanced Block Entities, AntiGhost, Noisium, CIT Resewn, LambDynamicLights, Memory Leak Fix, LazyDFU, ReplayMod**
+    - **Enhanced Block Entities, AntiGhost, CIT Resewn, LambDynamicLights, Memory Leak Fix, LazyDFU, ReplayMod**
 - **Temporary Removed Features**
     - **Dynamic Lights (LambDynamicLights)**
       
