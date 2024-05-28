@@ -1,4 +1,4 @@
-![Banner](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/OptiNa%20Reborn_Modrinth_Homepage.png?raw=true)
+![Banner](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/assets/OptiNa%20Reborn_Modrinth_Homepage.png?raw=true)
 <br>
 <div align="center">
   <p align="center">
@@ -6,14 +6,14 @@
     <br />
     <strong>1.20.6 is now 82% done! 🎉</strong>
     <br />
-    <a href="https://github.com/NotAGanesh/OptiNa-Reborn/wiki">Explore the wiki</a>
+    <a href="https://github.com/OptiNa-Team/OptiNa-Reborn/wiki">Explore the wiki</a>
     ·
-    <a href="https://github.com/NotAGanesh/OptiNa-Reborn/issues">Report Bugs</a>
+    <a href="https://github.com/OptiNa-Team/OptiNa-Reborn/issues">Report Bugs</a>
   </p>
 
 
   <center><a href="https://modrinth.com/modpack/optina-reborn"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a></center>
-  <center><a href="https://github.com/NotAGanesh/OptiNa-Reborn"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact-minimal/available/github_vector.svg" alt="Available on Github"></a></center>
+  <center><a href="https://github.com/OptiNa-Team/OptiNa-Reborn"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact-minimal/available/github_vector.svg" alt="Available on Github"></a></center>
   <center><a href="https://gitlab.com/optina-team/OptiNa-Reborn"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact-minimal/available/gitlab_vector.svg" alt="Available on Github"></a></center>
   <center><a href="https://modrinth.com/organization/optina-team"><img src="https://raw.githubusercontent.com/NotAGanesh/OptiNa-Team/c834c07242f36d99bc07b4e6b1219cd71d7470e0/badges/compact-minimal.svg" alt="OptiNa Team"></a></center> 
 <br>
@@ -44,7 +44,7 @@ OptiFine is a closed-source mod, resulting in incompatibilites with many other p
 7. Performance: VSync <br>
 8. Custom Models <br>
 9. CIT models <br>
-10. OptiFine Cape [(and a free supporter cape)](https://github.com/NotAGanesh/OptiNa-Reborn/wiki/OptiNa-Reborn-Cape) <br>
+10. OptiFine Cape [(and a free supporter cape)](https://github.com/OptiNa-Team/OptiNa-Reborn/wiki/OptiNa-Reborn-Cape) <br>
 11. Shaders [info](https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix) <br>
 12. Zoom <br>
 13. Dynamic Lights [info](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272478-dynamic-lights-portable-and-moving-lightsources)<br>
@@ -73,7 +73,7 @@ OptiFine is a closed-source mod, resulting in incompatibilites with many other p
 <details>
 <summary>✨ Ray Tracing (Bedrock RTX)</summary>
   
-![RTX info](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/rtx_modrinth_homepage.png?raw=true)
+![RTX info](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/assets/rtx_modrinth_homepage.png?raw=true)
 How to apply RTX: **Open Minecraft > Options > Shaders > Enable** <br>
 Ray tracing  brings a brand new experience to **Minecraft! Experience creator-built worlds with realistic lighting, vibrant colors, naturally reflective water and emissive textures that light up.**,Ray Tracing based on **[Complementary Shaders](https://complementary.dev/)**,RTX use's PBR(Physically based rendering)  Technology this is a Modern Technology By Nvidia,**RTX not compatible with Fast Graphics mode set your Graphics Mode to Fancy**,Nvidiuim Mod make RTX overpower <br>
 
@@ -91,7 +91,7 @@ This RTX is not an actual RTX.
 <details>
 <summary>🔥 Performance</summary>  
 
-![High Performance](https://github.com/NotAGanesh/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
+![High Performance](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
 **Best Modpack for Potato PC**
 </details>
 
@@ -111,7 +111,7 @@ This RTX is not an actual RTX.
 <summary>☵ Available at</summary>    
 
 <a href="https://modrinth.com/modpack/optina-reborn" rel="OptiNa Reborn"><img src="https://img.shields.io/badge/-MODRINTH-RRRRRR?logo=Modrinth&logoColor=white&style=for-the-badge" alt="Modrinth" /></a> 
-<a href="https://github.com/NotAGanesh/OptiNa-Reborn" rel="OptiNa Reborn Github"><img src="https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white&style=for-the-badge" alt="Github" /></a> 
+<a href="https://github.com/OptiNa-Team/OptiNa-Reborn" rel="OptiNa Reborn Github"><img src="https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white&style=for-the-badge" alt="Github" /></a> 
 <a href="https://gitlab.com/optina-team/OptiNa-Reborn" rel="OptiNa Reborn Gitlab"><img src="https://img.shields.io/badge/-GITLAB-FF6800?logo=GITLAB&logoColor=white&style=for-the-badge" alt="Gitlab" /></a> 
 <br>
 <a href="https://windows.com/" rel="Microsoft Windows"><img src="https://img.shields.io/badge/-WINDOWS-339CFF?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows" /></a> 
