@@ -1,4 +1,4 @@
-# [test1.png](https://github.com/NotAGanesh/OptiNa-Reborn/blob/preview-build-1.0.9/media/fps_test/test1.png) details
+# [test1.png](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/preview-build-1.0.9/media/fps_test/test1.png) details
 - Test 1 By **NotAGanesh**
 - PC Specs
    - Installed RAM: **8 Gigabites (4+4)**
@@ -18,7 +18,7 @@
    - Modpack Version: **v1.0.8 - Release (Hotfix)**
    - Changed Settings: **GUI Scale changed to 3 only.**  
 
-# [test2.png](https://github.com/NotAGanesh/OptiNa-Reborn/blob/preview-build-1.1.5/media/fps_test/test2.png) details
+# [test2.png](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/preview-build-1.1.5/media/fps_test/test2.png) details
 - Test 2 By **AxI0**
 - PC Specs
    - Installed RAM: **8 Gigabites (7.78 GB usable)**
