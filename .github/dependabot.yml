@@ -6,6 +6,6 @@
 version: 2
 updates:
   - package-ecosystem: "9"
-    directory: "/main" # Location of package manifests
+    directory: "/main" 
     schedule:
       interval: "weekly"
