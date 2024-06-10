@@ -3,7 +3,7 @@
   <p align="center">
     Simple and fast open-source OptiFine alternative for modern loaders based on OptiNa Reborn
     <br />
-    <strong>1.20.6 is now 82% done! 🎉</strong>
+    <strong>1.20.6 is now 96% done! 🎉</strong>
     <br />
     <a href="https://github.com/OptiNa-Team/OptiNa-Reborn/wiki">Explore the wiki</a>
     ·
