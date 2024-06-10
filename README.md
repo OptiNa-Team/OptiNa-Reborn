@@ -4,7 +4,7 @@
   <p align="center">
     Simple and fast open-source OptiFine alternative for modern loaders based on OptiNa Reborn
     <br />
-    <strong>1.20.6 is now 82% done! 🎉</strong>
+    <strong>1.20.6 is now 96% done! 🎉</strong>
     <br />
     <a href="https://github.com/OptiNa-Team/OptiNa-Reborn/wiki">Explore the wiki</a>
     ·
@@ -212,6 +212,8 @@ You’re all set! 🌟. Enjoy!
 <a href="https://modrinth.com/mod/cit-resewn" rel="nofollow">CIT Resewn (Mod) By <strong>shsupercm</strong></a><br>
 <a href="https://modrinth.com/mod/polytone" rel="nofollow">Polytone (Mod) By <strong>MehVahdJukaar</strong></a><br>
 <a href="https://modrinth.com/resourcepack/optina-reborn-rp" rel="nofollow">OptiNa Reborn RP (Resource Pack) By <strong>NotAGanesh</strong></a><br>
+<a href="https://modrinth.com/mod/ryoamiclights" rel="nofollow">RyoamicLights (Mod) By <strong>ThinkingStudio</strong></a><br>
+<a href="https://modrinth.com/mod/obsidianui" rel="nofollow">ObsidianUI (Mod) By <strong>ThinkingStudio</strong></a><br>
 </details>
 
 <details>
