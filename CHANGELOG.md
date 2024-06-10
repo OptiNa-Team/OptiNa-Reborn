@@ -3,7 +3,10 @@
 
 ### ⚠️ Caution: **We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.1.5 instead, if you have an desire to play 1.20.6 with all features we are suggesting for an Major Release (Release Channel)**
 
-in this Second beta release. we are adding our old removed mods. due to 1.20.6 not supported. and update mods,
+in this Third beta of OptiNa Reborn. we are adding Dynamic Lights! and some major features improved!
+
+**Better Grass control moved!** Now you can enable/disable it directly in Video Settings, or change its graphics mode to fancy/fast for a customized look. you don't need to activate resource pack
+
 
 Heads up! Version 1.21 is coming out on June 13th, 2024. We're working diligently to add support for it as soon as possible.
 
@@ -12,22 +15,25 @@ However, it’s important to note that some mods may still have bugs and glitche
 
 **Note: if you are using Modrinth App than you need to update the launcher for Java 21**
 ## Content Updates
-- Updated **Controlify, Entity Culling, Fabric API, ImmediatelyFast, ModernFix, Polytone, YetAnotherConfigLib, Zoomify**         
-## Re-added Content
-- [Solas Shader (Shader Pack)](https://modrinth.com/shader/solas-shader) by **septonious** has been re-added (Not Force-Enabled Now)
-- [Enhanced Block Entities (Mod)](https://modrinth.com/mod/ebe) by **FoundationGames** has been re-added
-
+- Updated **Fabric API, Euphoria Patches**         
+## Replaced Features
+- [LambDynamicLights (Mod)](https://modrinth.com/mod/lambdynamiclights) by **LambdAurora** has been replaced with [RyoamicLights (Mod)](https://modrinth.com/mod/ryoamiclights) by **ThinkingStudio**
+- [Fast Better Grass (Resource Pack)](https://modrinth.com/resourcepack/fast-better-grass) by **Robotkoer** has been replaced with [FabricBetterGrass (Mod)](https://modrinth.com/mod/fabricbettergrass) by **UltimatChamp**
+## New Content
+- [ObsidianUI (Library)](https://modrinth.com/mod/obsidianui) by **ThinkingStudio** has been added
+## Fixed Bugs
+- ([#4](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/4)) Euphoria Patches incompatibility with Complementary Shaders `r5.2.1` has been fixed ✔️ 
 
 
 ##
 - **Temporary Removed Content**
-    - **AntiGhost, CIT Resewn, LambDynamicLights, Memory Leak Fix, LazyDFU, ReplayMod**
+    - **AntiGhost, CIT Resewn, Memory Leak Fix, LazyDFU, ReplayMod**
 - **Temporary Removed Features**
-    - **Dynamic Lights (LambDynamicLights), OptiFine Custom Models/Texture Packs (CIT Resewn)**
+    - **OptiFine Custom Models/Texture Packs (CIT Resewn)**
       
 **Note: Still many old mods are missing due to 1.20.6 not supported yet. if they update i will soon add it.**
 
-[Here is full list](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/18)
+[Here is full list](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/1)
  #
  
 ***have a great day!, :)*** <br>
