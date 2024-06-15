@@ -1,42 +1,35 @@
-![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
-**Note: 1.20.6 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
+![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/preview-build-1.2.0/update_banners/special_banner_for_tricky_trials.png?raw=true)
+
+<br>
+
+**Note: 1.21 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
 
 ### ⚠️ Caution: **We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.1.5 instead, if you have an desire to play 1.20.6 with all features we are suggesting for an Major Release (Release Channel)**
 
-in this Third beta of OptiNa Reborn. we are adding Dynamic Lights! and some major features improved!
-
-**Better Grass control moved!** Now you can enable/disable it directly in Video Settings, or change its graphics mode to fancy/fast for a customized look. you don't need to activate resource pack
-
-
-Heads up! Version 1.21 is coming out on June 13th, 2024. We're working diligently to add support for it as soon as possible.
+in this alpha release of 1.21 aka **Tricky Trials** they finally removed herobrine and many other stuff! [checkout official changelog here!](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21)
 
 However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too. and crashes are common problem.
 
 
 **Note: if you are using Modrinth App than you need to update the launcher for Java 21**
-## Content Updates
-- Updated **Fabric API, Euphoria Patches**         
-## Replaced Features
-- [LambDynamicLights (Mod)](https://modrinth.com/mod/lambdynamiclights) by **LambdAurora** has been replaced with [RyoamicLights (Mod)](https://modrinth.com/mod/ryoamiclights) by **ThinkingStudio**
-- [Fast Better Grass (Resource Pack)](https://modrinth.com/resourcepack/fast-better-grass) by **Robotkoer** has been replaced with [FabricBetterGrass (Mod)](https://modrinth.com/mod/fabricbettergrass) by **UltimatChamp**
-## New Content
-- [ObsidianUI (Library)](https://modrinth.com/mod/obsidianui) by **ThinkingStudio** has been added
 ## Fixed Bugs
-- ([#4](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/4)) Euphoria Patches incompatibility with Complementary Shaders `r5.2.1` has been fixed ✔️ 
-
+- ([#6](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/6)) Wrong Settings of Euphoria Patches ✔️
+- ([#9](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/9)) OptiNa Reborn RP Not Working ✔️
+## Skipped Content
+- **ModernFix** Mod Skipped due to some problem with new version & crash
 
 ##
 - **Temporary Removed Content**
-    - **AntiGhost, CIT Resewn, Memory Leak Fix, LazyDFU, ReplayMod**
+    - **[Check out this list!](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/8)**
 - **Temporary Removed Features**
-    - **OptiFine Custom Models/Texture Packs (CIT Resewn)**
+    - **There a lot missing features! wait until release i can't tell how many features**
       
-**Note: Still many old mods are missing due to 1.20.6 not supported yet. if they update i will soon add it.**
+**Note: Still many old mods are missing due to 1.21 not supported yet. if they update i will soon add it.**
 
 [Here is full list](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/1)
  #
  
-***have a great day!, :)*** <br>
+***happy breezing!, :)*** <br>
 ***OptiNa Team***
 
 <br>
