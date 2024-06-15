@@ -4,7 +4,7 @@
 
 **Note: 1.21 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
 
-### ⚠️ Caution: **We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.1.5 instead, if you have an desire to play 1.20.6 with all features we are suggesting for an Major Release (Release Channel)**
+### ⚠️ Caution: **We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.1.5 instead, if you have an desire to play 1.21 with all features we are suggesting for an Major Release (Release Channel)**
 
 in this alpha release of 1.21 aka **Tricky Trials** they finally removed herobrine and many other stuff! [checkout official changelog here!](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21)
 
