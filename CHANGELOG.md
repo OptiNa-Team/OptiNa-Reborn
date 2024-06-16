@@ -1,37 +1,5 @@
-![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/preview-build-1.2.0/update_banners/special_banner_for_tricky_trials.png?raw=true)
-
-<br>
-
-**Note: 1.21 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
-
-### ⚠️ Caution: **We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.1.5 instead, if you have an desire to play 1.21 with all features we are suggesting for an Major Release (Release Channel)**
-
-in this alpha release of 1.21 aka **Tricky Trials** they finally removed herobrine and many other stuff! [checkout official changelog here!](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21)
-
-However, it’s important to note that some mods may still have bugs and glitches due to the early stage of development. Our team is actively working to address these issues and improve overall stability and mod developer too. and crashes are common problem.
-
-
-**Note: if you are using Modrinth App than you need to update the launcher for Java 21**
-## Fixed Bugs
-- ([#6](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/6)) Wrong Settings of Euphoria Patches ✔️
-- ([#9](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/9)) OptiNa Reborn RP Not Working ✔️
-## Skipped Content
-- **ModernFix** Mod Skipped due to some problem with new version & crash
-
-##
-- **Temporary Removed Content**
-    - **[Check out this list!](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/8)**
-- **Temporary Removed Features**
-    - **There a lot missing features! wait until release i can't tell how many features**
-      
-**Note: Still many old mods are missing due to 1.21 not supported yet. if they update i will soon add it.**
-
-[Here is full list](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/1)
- #
- 
-***happy breezing!, :)*** <br>
-***OptiNa Team***
-
-<br>
-
-![OptiNa Team](https://raw.githubusercontent.com/NotAGanesh/OptiNa-Team/c834c07242f36d99bc07b4e6b1219cd71d7470e0/badges/cozy.svg)
+# Major Patch for Crash!
+- ([#9](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/10)) Crash Fix Due to ModernFix Mod ✔️
+## Re-added Mods
+- Capes
+- OptiGUI
