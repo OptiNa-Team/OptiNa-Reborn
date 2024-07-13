@@ -33,7 +33,7 @@ Many Mods were not tested yet thats why i didn't added many mods
 
 ##
 - **Temporary Removed Content**
-    - CIT Resewn, e4mc, ThreadTweak, AntiGhost, Memory Leak Fix, LazyDFU
+    - CIT Resewn, ThreadTweak, AntiGhost, Memory Leak Fix, LazyDFU
 
 
 
