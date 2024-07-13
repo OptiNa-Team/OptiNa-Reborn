@@ -5,35 +5,35 @@
 
 ### ⚠️ Caution: **We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.1.5 instead, if you have an desire to play 1.21 with all features we are suggesting for an Major Release (Release Channel)**
 
-in this second beta release of 1.21 we are adding two major OptiFine Feature (Dynamic Lights, Better Grass)
 
-now i have lessen time to update the modpack but i try to hard!
-
-all mods/content updated!
 
 **Note: if you are using Modrinth App than you need to update the launcher for Java 21**
+
+## Modloader Update
+-  Fabric Loader Updated!
+    - updated `0.15.11` to `0.16.0`
+
+## Newly Added Content
+- [[ESF] Entity Sound Features (Mod)](https://modrinth.com/mod/esf) by **Traben** added
+
+## Content Updates
+- Updated **Entity Model Features, Entity Texture Features, Cubes Without Borders, Fabric API, Indium, ModernFix, Remove Reloading Screen,Complementary Reimagined, Euphoria Patches, Architectury API**
+
 ## Re-added Mods
-- RyoamicLights
-- Polytone
-- ObsidianUI
-- FabricBetterGrass
-- Nvidium
-- Noisium
-- Cubes Without Borders
+- Indium
+- Better Mount HUD
+- ReplayMod
+- Solas Shader
 
 Many Mods were not tested yet thats why i didn't added many mods
 
-## Known Issues
-- Glass Pane Texture Broken
-- Problem with Indium (Mod)
+## Bug fixes
+- Fixed Glass Pane Texture Broken ([#16](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/16))
+- Fixed Zoomify Mod Settings/Config files ([#17](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/17))
 
 ##
-- Unsupported Content
-    - **Indium is temp. removed due to compatibility issues**  
 - **Temporary Removed Content**
-    - **[Check out this list!](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/8)**
-- **Temporary Removed Features**
-    - **There a lot missing features! wait until release i can't tell how many features**
+    - CIT Resewn, e4mc, ThreadTweak, AntiGhost, Memory Leak Fix, LazyDFU
 
 
 
