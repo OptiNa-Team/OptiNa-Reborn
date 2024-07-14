@@ -220,7 +220,7 @@ You’re all set! 🌟. Enjoy!
 <a href="https://modrinth.com/resourcepack/optina-reborn-rp" rel="nofollow">OptiNa Reborn RP (Resource Pack) By <strong>NotAGanesh</strong></a><br>
 <a href="https://modrinth.com/mod/ryoamiclights" rel="nofollow">RyoamicLights (Mod) By <strong>ThinkingStudio</strong></a><br>
 <a href="https://modrinth.com/mod/obsidianui" rel="nofollow">ObsidianUI (Mod) By <strong>ThinkingStudio</strong></a><br>
-<a href="https://modrinth.com/mod/esf" rel="nofollow">[ESF] Entity Sound Features (Mod) By <strong>Traben</strong>  
+<a href="https://modrinth.com/mod/esf" rel="nofollow">[ESF] Entity Sound Features (Mod) By <strong>Traben</strong></a><br>  
 </details>
 
 
