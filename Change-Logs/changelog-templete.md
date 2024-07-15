@@ -2,6 +2,10 @@
 
 ### ⚠️ **Caution:** `~Optional~`
 
+### 🚀 Added
+- Added Example
+- Added Example
+
 ### 🕰️ Changed
 - Updated FabricAPI  
 - Updated Example `v1.0.0` to `v1.0.1`
