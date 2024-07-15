@@ -1,6 +1,6 @@
 ![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/update_banners/april_fool_update_banner_2024.png?raw=true)
 
-### ⚠️ **Caution:** `~Optional~`
+⚠️ **Important:** This version is still in beta and may have missing features. Minecraft 1.20.5+ Requires Java 21. `~Optional~`
 
 ### 🚀 Added
 - Added Example
