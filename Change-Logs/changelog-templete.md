@@ -14,7 +14,7 @@
 - ([#1](https://github.com/OptiNa-Team/OptiNa-Reborn/tree/main/Content%20List)) Fix Shader Enabled During Gameplay
 - ([#2](https://github.com/OptiNa-Team/OptiNa-Reborn/tree/main/Content%20List)) Fix Wrong Shaders File `.txt`
 
-### ⚙️ Return
+### ♻️ Return
 - Returned Example
 - Returned Example
 
