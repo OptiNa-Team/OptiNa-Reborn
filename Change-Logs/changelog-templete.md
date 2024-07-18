@@ -28,6 +28,11 @@
 - List of known issues
 - List of known issues
 
+### 🚂 Replaced
+- List of Replaced Things
+- List of Replaced Things
+- List of Replaced Things
+
 #
 ***happy breezing!, :)*** <br>
 ***OptiNa Team***
