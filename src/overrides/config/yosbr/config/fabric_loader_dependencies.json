@@ -1,0 +1,45 @@
+    {
+      "version": 1,
+      "overrides": {
+        "indium": {
+          "-depends": {
+            "minecraft": ""
+          }
+        },
+        "lithium": {
+          "-depends": {
+            "minecraft": ""
+          }
+        },
+        "entityculling": {
+          "-depends": {
+            "minecraft": ""
+          }
+        },
+        "threadtweak": {
+          "-depends": {
+            "minecraft": ""
+          }
+        },
+        "noisium": {
+          "-depends": {
+            "minecraft": ""
+          }
+        },
+        "sodium": {
+          "-depends": {
+            "minecraft": ""
+          }
+        },
+        "immediatelyfast": {
+          "-depends": {
+            "minecraft": ""
+          }
+        },
+        "ferritecore": {
+          "-depends": {
+            "minecraft": ""
+          }
+        }
+      }
+    }
