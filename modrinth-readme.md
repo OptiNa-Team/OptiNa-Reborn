@@ -9,12 +9,10 @@
     ·
     <a href="https://github.com/OptiNa-Team/OptiNa-Reborn/issues">Report Bugs</a>
   </p>
-
-
-| 🚀 Check out Latest [Pre-Releases here!](https://github.com/OptiNa-Team/OptiNa-Reborn/releases) |
-|-------------------------------------|
   
 </center>
+
+
 
 <p align="center">
  <center>
@@ -28,6 +26,8 @@
 <br>
 </div>
 
+| 🚀 Check out Latest [Pre-Releases here!](https://github.com/OptiNa-Team/OptiNa-Reborn/releases) |
+|-------------------------------------|
     
 ### 📖 About 
 OptiNa Reborn is a free and lightweight alternative of OptiFine, designed for modern Minecraft versions using the Fabric platform. It brings back all the features from OptiFine while adding a few extras. Notably, it’s optimized using Sodium. a modern Render Engine for minecraft, ensuring smooth performance even on less powerful computers. Plus, we update faster than OptiFine!
