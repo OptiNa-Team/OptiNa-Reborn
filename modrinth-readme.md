@@ -11,6 +11,8 @@
   </p>
 
 
+| 🚀 Check out Latest [Pre-Releases here!](https://github.com/OptiNa-Team/OptiNa-Reborn/releases) |
+|-------------------------------------|
   
 </center>
 
