@@ -1,46 +1,81 @@
-![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/update_banners/beta.png?raw=true)
+![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/update_banners/major_update.png?raw=true)
 
-
-**Note: 1.21 requires Java 21. Update your launcher and [download Java here.](https://www.oracle.com/in/java/technologies/downloads/)**
-
-### ⚠️ Caution: **We recommend against switching to this version due to several missing features. If you require the OptiFine feature, we suggest using v1.1.5 instead, if you have an desire to play 1.21 with all features we are suggesting for an Major Release (Release Channel)**
-
-
-
-**Note: if you are using Modrinth App than you need to update the launcher for Java 21**
-
-## Modloader Update
--  Fabric Loader Updated!
-    - updated `0.15.11` to `0.16.0`
-
-## Newly Added Content
-- [[ESF] Entity Sound Features (Mod)](https://modrinth.com/mod/esf) by **Traben** added
-
-## Content Updates
-- Updated **Entity Model Features, Entity Texture Features, Cubes Without Borders, Fabric API, Indium, ModernFix, Remove Reloading Screen,Complementary Reimagined, Euphoria Patches, Architectury API**
-
-## Re-added Mods
-- Indium
-- Better Mount HUD
-- ReplayMod
-- Solas Shader
-
-Many Mods were not tested yet thats why i didn't added many mods
-
-## Bug fixes
-- Fixed Glass Pane Texture Broken ([#16](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/16))
-- Fixed Zoomify Mod Settings/Config files ([#17](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/17))
+⚠️ **Important:** Minecraft 1.20.5+ Requires Java 21.
 
 ##
-- **Temporary Removed Content**
-    - CIT Resewn, ThreadTweak, AntiGhost, Memory Leak Fix, LazyDFU
 
+We're thrilled to announce the complete integration of `1.21` (Tricky Trials) into OptiNa Reborn! This massive changelog includes all bug fixes from the Beta and Alpha phases of `1.21`. And to top it off, enjoy a huge performance boost and a brand new in-game loading screen! 
+
+
+### 🚂 Replaced
+- **Remove Reloading Screen** is Replaced with **Dark Loading Screen**
+    - This Change made for Neat & Clean UI, Remove Reloading Screen is quite weird.
+
+### ♻️ Return
+- Returned **More Culling**
+- Returned **ThreadTweak**
+
+### 🕰️ Changed
+- Updated **Polytone** 
+    - `1.21-2.1.1` to `1.21-2.2.13`
+- Updated **FabricBetterGrass** 
+    - `1.0.17+1.21` to `1.0.20+1.21`
+- Updated **Sodium Shadowy Path Blocks**
+    - `3.3.0` to `3.3.1`
+- Updated **Fabric API**
+    - `0.100.6+1.21` to `0.100.8+1.21`
+- Updated **e4mc**
+    - `5.0.0` to `5.1.0`
+- Updated **Cubes Without Borders**
+    - `2.1.0+1.21` to `2.1.1+1.21`
+- Updated **Architectury API**
+    - `13.0.4+fabric` to `13.0.6+fabric`
+- Updated **ModernFix**
+    - `5.18.8+mc1.21` to `5.19.0+mc1.21`
+- Updated **Dynamic FPS**
+    - `3.6.0` to `3.6.3`
+
+### 🛠️ Fixes
+- ([#06](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/6)) **Fix Euphoria Patches:** incorrect settings.
+- ([#09](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/9)) **Fix OptiNa Reborn RP:** features from working correctly.
+- ([#10](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/10)) **Fix ModernFix:** Addressed a crash that occurred due to the ModernFix mod.
+- ([#16](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/16)) **Fix** Glass Pane Texture Broken.
+- ([#17](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/17)) **Fix Zoomify**: incorrect settings/config (`zoomify.json`.)
+
+### 📂 Configuration Changes  
+- **Sodium Extra:**
+    - Show FPS: On (True)
+
+- **FabricBetterGrass:**
+     - turn off by default
+
+- **Zoomify:**
+     - Zoom In Time:  **0.5 Secs**
+     - Zoom Out Time: **0.5 Secs**
+
+- **ReplayMod:**
+     - return of the configration file. (`replaymod.json`)
+
+- **In Options:**
+     - Graphics: Fast
+     - View Bobbing: off
+     - VSync: off
+     - Max Shadow Distance: 10
+     - **Sodium Extra:** Show FPS :- On
+
+- **ModMenu:**
+     - Hidden Mods: Not Counted
+     - Libraries: Not Counted
+
+- **Main Menu Credits:**
+     - Pause Screen Bottom Left Text is Now White `Take 4K Screenshots with F9`, for more visibility
+
+- **Dark Loading Screen**:
+     - added the configration file. (`dark-loading-screen.json`)
+
+> OptiNa Reborn is now supports extremely low-end Hardwares!  
 
 
 #
 ***happy breezing!, :)*** <br>
 ***OptiNa Team***
-
-<br>
-
-![OptiNa Team](https://raw.githubusercontent.com/NotAGanesh/OptiNa-Team/c834c07242f36d99bc07b4e6b1219cd71d7470e0/badges/cozy.svg)
