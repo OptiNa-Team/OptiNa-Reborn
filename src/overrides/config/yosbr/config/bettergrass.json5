@@ -2,19 +2,25 @@
 	// General
 	// OFF/FAST/FANCY (default: FANCY)
 	betterGrassMode: "OFF",
-	// Advanced
-	grassBlocks: [
-		"minecraft:grass_block",
-		"minecraft:podzol",
-		"minecraft:mycelium",
-		"minecraft:crimson_nylium",
-		"minecraft:warped_nylium"
-	],
-	// Additional
+	// (default: true)
+	snowy: true,
+	// 
+	// Connected Blocks
+	// (default: true)
+	grassBlocks: true,
 	// (default: false)
 	dirtPaths: false,
 	// (default: false)
 	farmLands: false,
 	// (default: true)
-	snowy: true
+	podzol: true,
+	// (default: true)
+	mycelium: true,
+	// (default: true)
+	crimsonNylium: true,
+	// (default: true)
+	warpedNylium: true,
+	// 
+	// Advanced
+	moreBlocks: []
 }
