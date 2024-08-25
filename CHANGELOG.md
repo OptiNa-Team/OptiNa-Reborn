@@ -1,11 +1,13 @@
-![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/update_banners/major_update.png?raw=true)
+![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
 
 ⚠️ **Important:** Minecraft 1.20.5+ Requires Java 21.
 
 ##
 
-We're thrilled to announce the complete integration of `1.21` (Tricky Trials) into OptiNa Reborn! This massive changelog includes all bug fixes from the Beta and Alpha phases of `1.21`. And to top it off, enjoy a huge performance boost and a brand new in-game loading screen! 
+We're thrilled to announce the pre integration of `1.21.1` (Tricky Trials) into OptiNa Reborn! This massive changelog includes all bug fixes from the Beta and Alpha phases of `1.21`. And to top it off, enjoy a huge performance boost and a brand new in-game loading screen! 
 
+## Temporarily Removed Mods
+Here is the [list](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/21)
 
 ### 🚂 Replaced
 - **Remove Reloading Screen** is Replaced with **Dark Loading Screen**
@@ -66,6 +68,7 @@ We're thrilled to announce the complete integration of `1.21` (Tricky Trials) in
 - **ModMenu:**
      - Hidden Mods: Not Counted
      - Libraries: Not Counted
+     - Update Checker: off
 
 - **Main Menu Credits:**
      - Pause Screen Bottom Left Text is Now White `Take 4K Screenshots with F9`, for more visibility
@@ -75,6 +78,8 @@ We're thrilled to announce the complete integration of `1.21` (Tricky Trials) in
 
 > OptiNa Reborn is now supports extremely low-end Hardwares!  
 
+### 🌸 Special Credits
+- Thanks to [@DogsFox](https://modrinth.com/user/DogsFox) :) for helping me to fix the crash issue. cause of Indium mod
 
 #
 ***happy breezing!, :)*** <br>
