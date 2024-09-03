@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "overrides": {
+        "fabricloader": {
+            "+depends": {
+                "fabricloader": ">=0.16.3"
+            }
+        },
+        "minecraft": {
+            "+recommends": {
+                "OptiNa Reborn": ">1.2.7-beta"
+            }
+        },
+        "polytone": {
+            "conflicts": {}
+        },
+        "debugify": {
+            "depends": {
+                "minecraft": ">=1.21 <=1.21.1"
+            }
+        }
+    }
+}
