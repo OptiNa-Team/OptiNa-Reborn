@@ -1,86 +1,11 @@
-![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/update_banners/hotfix_changelog_banner.png?raw=true)
+It's Time for Update! Minor Patch for `v1.2.6` Incompatible mods issue, Still many mods are missing because they were outdated for 1.21.1
 
-⚠️ **Important:** Minecraft 1.20.5+ Requires Java 21.
+- ([#23](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/23)) Incompatible Mods in v1.2.6
+- Improved loading Screen
+- Temporarily Removed Content: Main Menu Credits etc.
+- Mods were updated!
+  - Skipped Updating Sodium beta version because sodium breaks other mods
+- Force-Enabled Content: Debugify
+- Modpack Name Renamed to `OptiNa Reborn` Version name removed
 
-##
-
-We're thrilled to announce the pre integration of `1.21.1` (Tricky Trials) into OptiNa Reborn! This massive changelog includes all bug fixes from the Beta and Alpha phases of `1.21`. And to top it off, enjoy a huge performance boost and a brand new in-game loading screen! 
-
-## Temporarily Removed Mods
-Here is the [list](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/21)
-
-### 🚂 Replaced
-- **Remove Reloading Screen** is Replaced with **Dark Loading Screen**
-    - This Change made for Neat & Clean UI, Remove Reloading Screen is quite weird.
-
-### ♻️ Return
-- Returned **More Culling**
-- Returned **ThreadTweak**
-
-### 🕰️ Changed
-- Updated **Polytone** 
-    - `1.21-2.1.1` to `1.21-2.2.13`
-- Updated **FabricBetterGrass** 
-    - `1.0.17+1.21` to `1.0.20+1.21`
-- Updated **Sodium Shadowy Path Blocks**
-    - `3.3.0` to `3.3.1`
-- Updated **Fabric API**
-    - `0.100.6+1.21` to `0.100.8+1.21`
-- Updated **e4mc**
-    - `5.0.0` to `5.1.0`
-- Updated **Cubes Without Borders**
-    - `2.1.0+1.21` to `2.1.1+1.21`
-- Updated **Architectury API**
-    - `13.0.4+fabric` to `13.0.6+fabric`
-- Updated **ModernFix**
-    - `5.18.8+mc1.21` to `5.19.0+mc1.21`
-- Updated **Dynamic FPS**
-    - `3.6.0` to `3.6.3`
-
-### 🛠️ Fixes
-- ([#06](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/6)) **Fix Euphoria Patches:** incorrect settings.
-- ([#09](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/9)) **Fix OptiNa Reborn RP:** features from working correctly.
-- ([#10](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/10)) **Fix ModernFix:** Addressed a crash that occurred due to the ModernFix mod.
-- ([#16](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/16)) **Fix** Glass Pane Texture Broken.
-- ([#17](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/17)) **Fix Zoomify**: incorrect settings/config (`zoomify.json`.)
-
-### 📂 Configuration Changes  
-- **Sodium Extra:**
-    - Show FPS: On (True)
-
-- **FabricBetterGrass:**
-     - turn off by default
-
-- **Zoomify:**
-     - Zoom In Time:  **0.5 Secs**
-     - Zoom Out Time: **0.5 Secs**
-
-- **ReplayMod:**
-     - return of the configration file. (`replaymod.json`)
-
-- **In Options:**
-     - Graphics: Fast
-     - View Bobbing: off
-     - VSync: off
-     - Max Shadow Distance: 10
-     - **Sodium Extra:** Show FPS :- On
-
-- **ModMenu:**
-     - Hidden Mods: Not Counted
-     - Libraries: Not Counted
-     - Update Checker: off
-
-- **Main Menu Credits:**
-     - Pause Screen Bottom Left Text is Now White `Take 4K Screenshots with F9`, for more visibility
-
-- **Dark Loading Screen**:
-     - added the configration file. (`dark-loading-screen.json`)
-
-> OptiNa Reborn is now supports extremely low-end Hardwares!  
-
-### 🌸 Special Credits
-- Thanks to [@DogsFox](https://modrinth.com/user/DogsFox) :) for helping me to fix the crash issue. cause of Indium mod
-
-#
-***happy breezing!, :)*** <br>
-***OptiNa Team***
+_We knew that this patch is very late, but i had personal issues sorry. Thanks for your patience!❤️_
