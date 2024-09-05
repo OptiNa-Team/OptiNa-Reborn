@@ -1,3 +1,6 @@
+- Updated Entity Model Features, Debugify
+  - Skipped Sodium and related updates as they are currently in beta and can break with other mods
+  - Skipped Polytone update, newest version seems to depend on Sodium update
 - Temporarily `options.txt` added in overrides
 - Fast Quit Toast Screen Removed
 - Updated and enforced Fabric Loader `0.16.4`
