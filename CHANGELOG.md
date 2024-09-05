@@ -1,11 +1,5 @@
-It's Time for Update! Minor Patch for `v1.2.6` Incompatible mods issue, Still many mods are missing because they were outdated for 1.21.1
-
-- ([#23](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/23)) Incompatible Mods in v1.2.6
-- Improved loading Screen
-- Temporarily Removed Content: Main Menu Credits etc.
-- Mods were updated!
-  - Skipped Updating Sodium beta version because sodium breaks other mods
-- Force-Enabled Content: Debugify
-- Modpack Name Renamed to `OptiNa Reborn` Version name removed
-
-_We knew that this patch is very late, but i had personal issues sorry. Thanks for your patience!❤️_
+- Temporarily `options.txt` added in overrides
+- Fast Quit Toast Screen Removed
+- Updated and enforced Fabric Loader `0.16.4`
+- Re-added RTX Parity Feature
+- Re-added Better Grass Feature
