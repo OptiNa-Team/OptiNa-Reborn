@@ -6,3 +6,4 @@
 - Updated and enforced Fabric Loader `0.16.4`
 - Re-added RTX Parity Feature
 - Re-added Better Grass Feature
+- Re-added Main Menu Credit
