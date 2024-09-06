@@ -124,15 +124,22 @@ This RTX is not an actual RTX.
 <details>
 <summary>📦 Easy to Install</summary>    
 
+## 📁 Automatic/One-Click Installation
 1. Download the [**Modrinth App.**](https://modrinth.com/app) or install any Modrinth modpack compatible launchers like **ATLauncher, MultiMC, and Prism Launcher.**
 2. Click on **Browse**.
 3. Select **Search**.
 4. Type “**OptiNa Reborn**”.
 5. Click **Install**.
 
+## 📝 Manual Installation
+1. Download `.mrpack` file from Modrinth of your favorite OptiNa Reborn Version
+2. Upload that file into this [converter](https://jamie.codeberg.page/mrpack-to-zip/@master/)
+3. Now Download Required Fabric Version (Required Fabric Version will mentioned in Changelog)
+4. Now Delete (or backup) `mods`, `config` folder
+5. Extract the converted file into Minecraft Folder `.minecraft`
+
 You’re all set! 🌟. Enjoy! 
 </details>
-
 
 
 
