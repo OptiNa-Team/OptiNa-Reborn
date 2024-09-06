@@ -27,7 +27,7 @@
 </div>
 
 
-    
+
 ### 📖 About 
 OptiNa Reborn is a free and lightweight alternative of OptiFine, designed for modern Minecraft versions using the Fabric platform. It brings back all the features from OptiFine while adding a few extras. Notably, it’s optimized using Sodium. a modern Render Engine for minecraft, ensuring smooth performance even on less powerful computers. Plus, we update faster than OptiFine!
 
@@ -63,7 +63,6 @@ OptiFine is a closed-source mod, resulting in incompatibilites with many other p
 |![Shaders](https://cdn.modrinth.com/data/sr0NwKN6/images/5ba27d52bcd7373b3fff5b9b1aee315819f89f83.png)         |![OptiFine Cape](https://cdn.modrinth.com/data/sr0NwKN6/images/81e82dd0d0bbe24ea482bf8dcd4bb4576da06df0.png)               |![Connected Textures](https://cdn.modrinth.com/data/sr0NwKN6/images/ab17214dca21bd6f20704290eedfd97e7eb47211.png)                    |![Better Grass](https://cdn.modrinth.com/data/sr0NwKN6/images/1075b78aeaa6ebd1846432fc60eeccb9eed96b95.png)              |![Dynamic Lights](https://cdn.modrinth.com/data/sr0NwKN6/images/8e54117b4db4f3b86e66d0fff5888be6f1cc2b03.png)                |
 </details>
 
-
 <details>
 <summary>⚽ Differences Between Legacy & Reborn Version</summary>  
 
@@ -94,17 +93,12 @@ This RTX is not an actual RTX.
 ## ⚠️ Caution: **RTX Support Available for OptiNa Reborn v0.0.4 - Alpha or Newer**
 </details>
 
-
-
 <details>
 <summary>🔥 Performance</summary>  
 
 ![High Performance](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/assets/high_performance_banner_optina_reborn.png?raw=true)
 **Best Modpack for Potato PC**
 </details>
-
-
-
 
 <details>
 <summary>🗺️ Statics</summary>  
@@ -140,11 +134,11 @@ This RTX is not an actual RTX.
 5. Click **Install**.
 
 ## 📝 Manual Installation
-1. Download `.mrpack` file from Modrinth of your favorite OptiNa Reborn Version
-2. Upload that file into this [converter](https://jamie.codeberg.page/mrpack-to-zip/@master/)
-3. Now Download Required Fabric Version (Required Fabric Version will mentioned in Changelog)
-4. Now Delete (or backup) `mods`, `config` folder
-5. Extract the converted file into Minecraft Folder `.minecraft`
+1. Download `.mrpack` file from Modrinth of your favorite OptiNa Reborn Version.
+2. Upload that file into this [converter](https://jamie.codeberg.page/mrpack-to-zip/@master/).
+3. Now Download Required Fabric Version (Required Fabric Version will mentioned in Changelog).
+4. Now Delete (or backup) `mods`, `config` folder ~(Optional)~.
+5. Extract the converted file into Minecraft Folder `.minecraft`.
 
 You’re all set! 🌟. Enjoy! 
 </details>
