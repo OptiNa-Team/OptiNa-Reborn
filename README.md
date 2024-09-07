@@ -134,7 +134,7 @@ This RTX is not an actual RTX.
 ## 📝 Manual Installation
 1. Download `.mrpack` file from Modrinth of your favorite OptiNa Reborn Version.
 2. Upload that file into this [converter](https://jamie.codeberg.page/mrpack-to-zip/@master/).
-3. Now Download Required Fabric Version (Required Fabric Version will mentioned in Changelog).
+3. Now Download Required [Fabric Loader](https://fabricmc.net/) Version (Required Fabric Version will mentioned in Changelog).
 4. Now Delete (or backup) `mods`, `config` folder ~(Optional)~.
 5. Extract the converted file into Minecraft Folder `.minecraft`.
 
