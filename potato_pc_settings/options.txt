@@ -1,10 +1,11 @@
-version:3953
+
+version:3955
 fullscreenMonitor:"0,0,1920,1080"
 fullscreenMode:0
 preferredFullscreenMode:1
 ao:true
 biomeBlendRadius:2
-enableVsync:true
+enableVsync:false
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
@@ -17,14 +18,14 @@ glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
 gamma:0.5
-graphicsMode:1
+graphicsMode:0
 guiScale:2
 maxFps:260
 mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:"fast"
 renderDistance:8
 simulationDistance:8
 screenEffectScale:1.0
@@ -41,7 +42,7 @@ realmsNotifications:true
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-bobView:true
+bobView:false
 toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
@@ -52,8 +53,8 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/v1.1.7.zip"]
-incompatibleResourcePacks:["balm-fabric","resourcify","rrls","spark","yet_another_config_lib_v3"]
-lastServer:
+incompatibleResourcePacks:["balm-fabric","modernfix","replaymod","resourcify","rrls","spark","yet_another_config_lib_v3"]
+lastServer:play.mccisland.net
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
