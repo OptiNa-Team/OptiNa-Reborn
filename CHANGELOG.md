@@ -1,9 +1,8 @@
-- Updated Entity Model Features, Debugify
-  - Skipped Sodium and related updates as they are currently in beta and can break with other mods
-  - Skipped Polytone update, newest version seems to depend on Sodium update
-- Temporarily `options.txt` added in overrides
-- Fast Quit Toast Screen Removed
-- Updated and enforced Fabric Loader `0.16.4`
-- Re-added RTX Parity Feature
-- Re-added Better Grass Feature
-- Re-added Main Menu Credit
+Fabric Loader 0.16.4
+##
+
+- Re-added BadOptimizations
+- Re-added Complementary Shaders - Reimagined
+- Re-added Solas Shader
+- Max Shadow Distance is now `20`
+- Moved `overrides\options.txt` to `overrides\config\yosbr\options.txt`
