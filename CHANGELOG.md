@@ -4,7 +4,7 @@ Fabric Loader 0.16.5
 
 ![Update Logo](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/update_banners/major_update.png?raw=true)
 
-⚠️ **Important:** This version is still in beta and may have missing features. Minecraft 1.20.5+ Requires Java 21. 
+⚠️ **Important:** Minecraft 1.20.5+ Requires Java 21. 
 
 After a long time major release is here, with some additional points 🥳
 
