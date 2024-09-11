@@ -53,7 +53,6 @@ highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/v1.1.7.zip"]
 incompatibleResourcePacks:["balm-fabric","modernfix","replaymod","resourcify","rrls","spark","yet_another_config_lib_v3"]
-lastServer:play.mccisland.net
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
