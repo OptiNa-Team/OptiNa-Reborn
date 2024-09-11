@@ -12,6 +12,7 @@ After a long time major release is here, with some additional points 🥳
 - More Stability
 
 ### 🕰️ Changed
+- Updated and enforced **Fabric Loader** `0.16.5`
 - Updated **Fabric API**
 - Updated **Entity Model Features**
 - Updated **Entity Texture Features**
