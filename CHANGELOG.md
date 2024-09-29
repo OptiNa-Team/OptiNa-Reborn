@@ -1,17 +1,22 @@
-it's time for our second release for 1.21.1, here are some changes
-### 🕰️ Changed
-- Updated **Concurrent Chunk Management Engine**
-- Updated **Entity Model Features**
-- Updated **Entity Texture Features**
-- Updated **CIT Resewn**
-- Updated **Cloth Config**
-- Updated **Dynamic FPS**
-- Updated **Fabric Language Kotlin**
-- Updated **Lithium**
-  - Skipped **Sodium, BetterGrassify** and other updates that depend on it, because Sodium is in beta and may break
+it's time for our third release for 1.21.1, here are some changes
+### 📢 Minecrafty News!
+- Minecraft Live announced a new mob, '**Creaking**,' and a new biome, '**The Pale Garden**'. 
 
-### 📂 Configuration Changes  
-- [ReplayMod:](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/src/overrides/config/yosbr/config/replaymod.json) Disabled automatic start recording in ReplayMod, Single Player & Server/Multiplayer recording is now enabled.
-  - `"autoStartRecording": false,`
-  - `"recordSingleplayer": true,`
-  - `"recordServer": true,`
+| [Watch the replay of Minecraft LIVE.](https://www.youtube.com/watch?v=qnX6sPFjXnA&embeds_referring_euri=https%3A%2F%2Fwww.minecraft.net%2F&embeds_referring_origin=https%3A%2F%2Fwww.minecraft.net&source_ve_path=Mjg2NjY) |
+|-------------------------------------|
+
+### 🕰️ Changed
+- Updated **Fabric API**
+- Updated **Resourcify**
+- Updated **Puzzle**
+- Updated **e4mc**
+- Updated **OptiGUI**
+- Updated **Dynamic FPS**
+- Updated **More Culling**
+- Updated **CIT Resewn**
+- Updated **Concurrent Chunk Management Engine**
+- Updated **Spark**
+  - Skipped **Sodium, BetterGrassify, More Culling** and other updates that depend on it, because Sodium is in beta and may break
+
+### 🛠️ Fixes
+- ([#34](https://github.com/OptiNa-Team/OptiNa-Reborn/tree/main/Content%20List)) Missing OptiNa Reborn version false warning. 
