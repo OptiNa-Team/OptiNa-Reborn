@@ -142,10 +142,10 @@ This RTX is not an actual RTX.
 6. Extract the converted file into Minecraft Folder `.minecraft`.
 
 ### Optional (if you need good looking icon)
-7. Open the Minecraft Launcher.
-8. Edit the Fabric Loader profile.
-9. Rename the profile to "OptiFine Reborn".
-10. Download a custom icon for the profile. You can download the default icon here: [get icon here](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/assets/launcher_profile_icon.png?raw=true) 
+1. Open the Minecraft Launcher.
+2. Edit the Fabric Loader profile.
+3. Rename the profile to "OptiFine Reborn".
+4. Download a custom icon for the profile. You can download the default icon here: [get icon here](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/assets/launcher_profile_icon.png?raw=true) 
 
 all Set!
 
