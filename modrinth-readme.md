@@ -134,13 +134,21 @@ This RTX is not an actual RTX.
 5. Click **Install**.
 
 ## 📝 Manual Installation
-1. Download `.mrpack` file from Modrinth of your favorite OptiNa Reborn Version.
+1. Download `.mrpack` file from Modrinth of your favorite OptiNa Reborn Version. we highly recommend to use [the latest release version](https://modrinth.com/modpack/optina-reborn/versions?c=release).
 2. Upload that file into this **[Converter](https://jamie.codeberg.page/mrpack-to-zip/@master/)**.
-3. Now Download Required **[Fabric Loader](https://fabricmc.net/)** Version (Required Fabric Version will mentioned in Changelog).
-4. Now Delete (or backup) `mods`, `config` folder ~(Optional)~.
-5. Extract the converted file into Minecraft Folder `.minecraft`.
+3. Now Headover to **[Fabric Loader](https://fabricmc.net/)** Download Page. than select Required Fabric Loader Version is mentioned in Modpack Changelog, **📌Important:** do not use any other version of Fabric Loader, only use the version that mentioned in modpack changelog).
+4. **Optional:** Delete (or backup) `mods`, `config`, folder 
+5. Now Delete (or backup) `options.txt` inside your `.minecraft` folder.
+6. Extract the converted file into Minecraft Folder `.minecraft`.
 
-You’re all set! 🌟. Enjoy! 
+### Optional (if you need good looking icon)
+7. Open the Minecraft Launcher.
+8. Edit the Fabric Loader profile.
+9. Rename the profile to "OptiFine Reborn".
+10. Download a custom icon for the profile. You can download the default icon here: [get icon here](https://github.com/OptiNa-Team/OptiNa-Reborn/blob/main/assets/launcher_profile_icon.png?raw=true) 
+
+all Set!
+
 </details>
 
 
