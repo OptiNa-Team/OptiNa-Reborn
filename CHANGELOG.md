@@ -20,9 +20,6 @@ it's time for our third release for 1.21.1, here are some changes
 - Updated **Spark**
   - Skipped **Sodium, BetterGrassify, More Culling** and other updates that depend on it, because Sodium is in beta and may break
 
-### 🛠️ Fixes
-- ([#34](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/34)) Missing OptiNa Reborn version false warning. 
-
 
 ## 1.20.6
 it's time to update our old version `1.20.6` aka 	
