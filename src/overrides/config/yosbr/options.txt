@@ -53,6 +53,7 @@ highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/v1.1.7.zip"]
 incompatibleResourcePacks:["balm-fabric","modernfix","replaymod","resourcify","rrls","spark","yet_another_config_lib_v3"]
+lastServer:
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -151,7 +152,7 @@ key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
-key_zoomify.key.zoom.secondary:key.keyboard.f6
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
