@@ -1,13 +1,6 @@
-Finally LambDynamicLights new version is here after a long time!, LambDynamicLights is more stable than RyoamicLights
-
-additionally added support with new fabric loader build `0.16.6`
-
 ### 🕰️ Changed
-- Updated **Fabric Loader**
-- Updated **OptiGUI**
-- Updated **Balm**
-  - Skipped **Sodium, BetterGrassify, More Culling** and other updates that depend on it, because Sodium is in beta and may break 
+- Updated and enforced **Fabric Loader** 0.16.7
+- Updated **Fabric Language Kotlin**
 
-### ♻️ Return
-- Returned **LambDynamicLights**
-  - ofcourse **RyoamicLights, ObsidianUI** is removed 
+### 📂 Configuration Changes
+- **options.txt**: Zoomify secondary zoom ( <kbd>F6</kbd> key ) is now Disabled due to suspious movement detectation in some servers.
