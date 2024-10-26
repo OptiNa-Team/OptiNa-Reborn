@@ -51,7 +51,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/v1.1.7.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/Modpack Native.zip"]
 incompatibleResourcePacks:["balm-fabric","modernfix","replaymod","resourcify","rrls","spark","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
