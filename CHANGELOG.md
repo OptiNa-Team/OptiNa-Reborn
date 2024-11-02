@@ -1,4 +1,5 @@
 ## 1.21.3
+### ⚠️ ([#45](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/45)) nothing change in this version because this is a patch because some performance configs and shader file missing, check previous changelog 
 i'm excited to announce the release of the third alpha for both the 1.21.3 and 1.21.2 versions. This is a significant milestone for 1.21.3, bringing us closer to the beta release.
 
 ### 🕰️ Changed
@@ -32,6 +33,8 @@ A heartfelt thank you to **[@AxI0](https://modrinth.com/user/Axl0)** for their i
 
 
 ## 1.21.2
+### ⚠️ ([#45](https://github.com/OptiNa-Team/OptiNa-Reborn/issues/45)) nothing change in this version because this is a patch because some performance configs and shader file missing, check previous changelog 
+
 ### ⚠️ Warning: Realms servers cannot be joined with resource packs and salmon will become smaller when you launch your worlds in this version. Mojang has released 1.21.3 to fix this, coming after few hours to OptiNa Reborn.
 i'm excited to announce the release of the third alpha for both the 1.21.3 and 1.21.2 versions. This is a significant milestone for 1.21.3, bringing us closer to the beta release., i'm going to continue support 1.21.2
 
