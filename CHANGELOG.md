@@ -1,48 +1,62 @@
 ## 1.21.3
-here is our last alpha (maybe, fingercross, next release will be beta), with some mods return and updates.
+here is our first beta for both versions 1.21.2 and 1.21.3 <br>
+in this release some mods were return/updated and some Configuration changes.
 
 ### 🕰️ Changed
+- Updated **Sodium**
 - Updated **Iris Shaders**
-- Updated **Dynamic FPS**
+- Updated **Fabric API**
+- Updated **Euphoria Patches**
+  - Euphoria Patches shader file renamed to `ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.3.txt`
+  - outdated shader file removed 
 - Updated **ImmediatelyFast**
+- Updated **Forge Config API Port**
+- Updated **MoreCulling**
+- Updated **Entity Model Features**
 - Updated **Concurrent Chunk Management Engine**
-- Updated **Entity Texture Features**
-
-### ❌ Temporarily Removed
-- Temporarily Removed **No Chat Reports** to a bug in current and incompatibility in previous version.
-  - bug reproduces when entering some servers
-  - the mod found incompatible with ReplayMod
-- Temporarily Removed **Fabrishot** as it was found incompatible with 1.21.3.
-  - Pause Menu Suggestion Removed as the mod itself removed
+  - Skipped Controlify update due to a crash
 
 ### ♻️ Return
-- Returned **Noisium**
-- Returned **Polytone**
-- Returned **Entity Culling**
+- Returned **Lithium**
+- Returned **No Chat Reports**
+- Returned **Puzzle**
+  - Temporarily incompatible **Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Paginated Advancements** 
 
+### 📂 Configuration Changes
+- **Sodium Extra**:-
+  - Show FPS is now disabled by default (but you can still enable it on ingame) as the FPS Screen overlaps the Controlify GUI.
+- **Ingame Settings**:-
+  - Menu Blur is now set to `0` by default as the menu blur affects Framerates.
+ 
 ### 🌸 Special Credits
 - A heartfelt thank you to **[@AxI0](https://modrinth.com/user/Axl0)** for their invaluable support in testing early builds, helping shape and improve the experience.
 
 ## 1.21.2
-### ⚠️ Warning: Realms servers cannot be joined with resource packs and salmon will become smaller when you launch your worlds in this version. Mojang has released 1.21.3 to fix this, coming after few hours to OptiNa Reborn.
-here is our last alpha (maybe, fingercross, next release will be beta), with some mods return and updates.
+here is our first beta for both versions 1.21.2 and 1.21.3 <br>
+in this release some mods were return/updated and some Configuration changes.
 
 ### 🕰️ Changed
+- Updated **Sodium**
 - Updated **Iris Shaders**
-- Updated **Dynamic FPS**
+- Updated **Euphoria Patches**
+  - Euphoria Patches shader file renamed to `ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.3.txt`
+  - outdated shader file removed  
 - Updated **ImmediatelyFast**
-- Updated **Entity Texture Features**
-
-### ❌ Temporarily Removed
-- Temporarily Removed **No Chat Reports** to a bug in current and incompatibility in previous version.
-  - bug reproduces when entering some servers
-  - the mod found incompatible with ReplayMod
-- Temporarily Removed **Fabrishot** as it was found incompatible with 1.21.2.
-  - Pause Menu Suggestion Removed as the mod itself removed 
-
+- Updated **MoreCulling**
+- Updated **Entity Model Features**
+  - Skipped Controlify update due to a crash
+  
 ### ♻️ Return
-- Returned **Noisium**
-- Returned **Polytone**
+- Returned **Lithium**
+- Returned **No Chat Reports**
+- Returned **Puzzle**
+  - Temporarily incompatible **Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Paginated Advancements**
+
+### 📂 Configuration Changes
+- **Sodium Extra**:-
+  - Show FPS is now disabled by default (but you can still enable it on ingame) as the FPS Screen overlaps the Controlify GUI.
+- **Ingame Settings**:-
+  - Menu Blur is now set to `0` by default as the menu blur affects Framerates.
 
 ### 🌸 Special Credits
 - A heartfelt thank you to **[@AxI0](https://modrinth.com/user/Axl0)** for their invaluable support in testing early builds, helping shape and improve the experience.
