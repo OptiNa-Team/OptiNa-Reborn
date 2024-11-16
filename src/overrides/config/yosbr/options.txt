@@ -1,7 +1,4 @@
-version:3955
-fullscreenMonitor:"0,0,1920,1080"
-fullscreenMode:0
-preferredFullscreenMode:1
+version:4082
 ao:true
 biomeBlendRadius:2
 enableVsync:false
@@ -20,6 +17,7 @@ gamma:0.5
 graphicsMode:0
 guiScale:2
 maxFps:260
+inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
 particles:0
@@ -30,6 +28,7 @@ simulationDistance:8
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
+rotateWithMinecart:false
 operatorItemsTab:false
 autoSuggestions:true
 chatColors:true
@@ -50,9 +49,10 @@ hideSplashTexts:false
 mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
+highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/Modpack Native.zip"]
-incompatibleResourcePacks:["balm-fabric","modernfix","replaymod","resourcify","rrls","spark","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Modpack Native.zip"]
+incompatibleResourcePacks:["badoptimizations","balm-fabric","resourcify","spark","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -81,16 +81,14 @@ glDebugVerbosity:1
 skipMultiplayerWarning:false
 hideMatchedNames:true
 joinedFirstServer:true
-hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
-debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
-menuBackgroundBlurriness:5
+menuBackgroundBlurriness:0
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -127,30 +125,9 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.fabricskyboxes.toggle:key.keyboard.unknown
-key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.f12
-key_key.replaymod.playeroverview:key.keyboard.b
-key_key.replaymod.lighting:key.keyboard.z
-key_key.replaymod.quickmode:key.keyboard.q
-key_key.replaymod.settings:key.keyboard.unknown
-key_key.replaymod.marker:key.keyboard.m
-key_key.replaymod.thumbnail:key.keyboard.n
-key_key.replaymod.playpause:key.keyboard.p
-key_key.replaymod.rollclockwise:key.keyboard.l
-key_key.replaymod.rollcounterclockwise:key.keyboard.j
-key_key.replaymod.resettilt:key.keyboard.k
-key_key.replaymod.pathpreview:key.keyboard.h
-key_key.replaymod.keyframerepository:key.keyboard.x
-key_key.replaymod.clearkeyframes:key.keyboard.c
-key_key.replaymod.synctimeline:key.keyboard.v
-key_key.replaymod.positionkeyframe:key.keyboard.i
-key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
-key_key.replaymod.timekeyframe:key.keyboard.o
-key_key.replaymod.bothkeyframes:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
