@@ -23,8 +23,6 @@ in this release some mods were return/updated and some Configuration changes.
   - Temporarily incompatible **Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Paginated Advancements** 
 
 ### 📂 Configuration Changes
-- **Sodium Extra**:-
-  - Show FPS is now disabled by default (but you can still enable it on ingame) as the FPS Screen overlaps the Controlify GUI.
 - **Ingame Settings**:-
   - Menu Blur is now set to `0` by default as the menu blur affects Framerates.
  
@@ -53,8 +51,6 @@ in this release some mods were return/updated and some Configuration changes.
   - Temporarily incompatible **Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Paginated Advancements**
 
 ### 📂 Configuration Changes
-- **Sodium Extra**:-
-  - Show FPS is now disabled by default (but you can still enable it on ingame) as the FPS Screen overlaps the Controlify GUI.
 - **Ingame Settings**:-
   - Menu Blur is now set to `0` by default as the menu blur affects Framerates.
 
