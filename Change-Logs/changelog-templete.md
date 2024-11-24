@@ -2,6 +2,17 @@
 
 ⚠️ **Important:** This version is still in beta and may have missing features. Minecraft 1.20.5+ Requires Java 21. `~Optional~`
 
+### 📰 Highlights
+Update highlights
+
+<br>
+
+Update highlights
+
+<br>
+
+Update highlights
+
 ### 🚀 Added
 - Added **Example**
 - Added **Example**
