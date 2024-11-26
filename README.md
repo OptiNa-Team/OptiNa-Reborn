@@ -3,9 +3,9 @@
 <div align="center">
   <p align="center">
     Simple and fast open-source OptiFine alternative for modern loaders based on OptiNa Reborn
-    <br />
-    <strong>Thanks for 2.7k downloads! 🎉</strong>
-    <br />
+    <br>
+    <strong>Thanks for 3k downloads! 🎉</strong>
+    </br>
     <a href="https://github.com/OptiNa-Team/OptiNa-Reborn/wiki">Explore the wiki</a>
     ·
     <a href="https://github.com/OptiNa-Team/OptiNa-Reborn/issues">Report Bugs</a>
