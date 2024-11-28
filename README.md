@@ -2,7 +2,7 @@
 <br>
 <div align="center">
   <p align="center">
-    Simple and fast open-source OptiFine alternative for modern loaders based on OptiNa Reborn
+    Simple and fast open-source Modpack for modern mods based on Fabric Loader
     <br>
     <strong>Thanks for 3k downloads! 🎉</strong>
     </br>
